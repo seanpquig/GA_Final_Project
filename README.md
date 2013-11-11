@@ -1,4 +1,4 @@
 GA_Final_Project
 ================
 
-Twitter recommendation engine
+Twitter music recommendation engine
