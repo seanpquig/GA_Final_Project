@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 import tweepy
 
-file_num = 0
+file_num = 2
 
 ### LOAD ECHO NEST JSON DATA
 json_data = open('artist_json/artists_hott' + str(file_num) + '.json')
@@ -21,10 +21,16 @@ api = tweepy.API(auth)
 
 
 def get_tweets(screen_name):
-    artist_tweets = api.user_timeline(screen_name, count=200)
-    print screen_name, '  ', len(artist_tweets)
-    tweet_list = [x.text for x in artist_tweets]
-    return tweet_list
+    try:
+        artist_tweets = api.user_timeline(screen_name, count=200)
+    except tweepy.error.TweepError:
+        print '******TweepError for:  ', screen_name
+        return []
+    else:
+        tweet_list = [x.text for x in artist_tweets]
+        print screen_name, '  ', len(tweet_list)
+        return tweet_list
+
 
 df['tweets'] = df['screen_name'].apply(get_tweets)
 df['num_tweets'] = df['tweets'].apply(len)
