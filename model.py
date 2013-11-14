@@ -1,16 +1,19 @@
 ### IMPORT MODULES
 import json
 import csv
+import os
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.neighbors import NearestNeighbors
 
-file_num = 0
 
+df = pd.DataFrame()
 ### LOAD TWEET JSON DATA
-json_data = open('tweet_json/tweets' + str(file_num) + '.json')
-json_dict = json.load(json_data)
-df = pd.DataFrame(json_dict)
+for tweet_file in os.listdir('tweet_json/'):
+    json_data = open('tweet_json/' + tweet_file)
+    json_dict = json.load(json_data)
+    df = pd.concat([df, pd.DataFrame(json_dict)])
+
 
 def combine_tweets(tweets):
     tweet_str = ''
