@@ -1,38 +1,78 @@
 ### IMPORT MODULES
 import json
 import csv
+from django.utils.encoding import smart_str
 import os
+import tweepy
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from sklearn.neighbors import NearestNeighbors
+from sklearn.neighbors import NearestNeighbors, KNeighborsClassifier
 
 
-df = pd.DataFrame()
 ### LOAD TWEET JSON DATA
+df = pd.DataFrame()
 for tweet_file in os.listdir('tweet_json/'):
     json_data = open('tweet_json/' + tweet_file)
     json_dict = json.load(json_data)
     df = pd.concat([df, pd.DataFrame(json_dict)])
 
-
-def combine_tweets(tweets):
-    tweet_str = ''
-    for tweet in tweets:
-        tweet_str += (tweet + ' ')
-    return tweet_str
-
-df['tweet_str'] = df['tweets'].apply(combine_tweets)
-
-vectorizer = CountVectorizer().fit(df.tweet_str)
-tfidf_vect = TfidfVectorizer().fit(df.tweet_str)
-matrix = vectorizer.transform(df.tweet_str)
-tfidf_matrix = tfidf_vect.transform(df.tweet_str)
+# re-index df
+df = df[df.num_tweets >= 10]
+df.index = range(len(df))
 
 
-nbrs = NearestNeighbors(n_neighbors=10).fit(matrix)
-tfidf_nbrs = NearestNeighbors(n_neighbors=10).fit(tfidf_matrix)
-distances, indices = nbrs.kneighbors(matrix[0])
+### PROCESS TWEETS
+df['tweet_str'] = df['tweets'].apply(' '.join)
 
 
 
 
+
+### CREATE TOKEN MATRIX
+# vect = CountVectorizer().fit(df.tweet_str)
+vect = TfidfVectorizer().fit(df.tweet_str)
+matrix = vect.transform(df.tweet_str)
+
+
+### BUILD RECOMMENDATION ENGINE
+nbrs = NearestNeighbors(n_neighbors=5)
+nbrs.fit(matrix)
+# nbrs = NearestNeighbors(n_neighbors=5, metric='cosine', algorithm='brute')
+# nbrs.fit(matrix.toarray())
+
+# recs = []
+# scores = []
+# for i, row in enumerate(matrix):
+#     print i
+#     # distances, indices = nbrs.kneighbors(row)
+#     distances, indices = nbrs.kneighbors(row.toarray())
+#     artists = [df.artist[i] for i in indices[0]]
+#     recs.append(artists)
+#     scores.append(distances[0])
+
+# df['recommendations'] = recs
+# df['scores'] = scores
+
+# df['artist'] = df['artist'].apply(smart_str)
+# df[['artist', 'screen_name', 'hotttnesss', 
+#     'num_tweets', 'recommendations', 'scores']].to_csv('recs_cosine_tfidf.csv')
+
+
+
+### TAKE IN TWITTER HANDLE AND MAKE RECCOMENDATIONS
+auth = tweepy.OAuthHandler('6uhR4asteKqbRZrF58Gg', 'euNYEIYJqkrB2jxRTy3w83VvnNqxEQqfB8DTOvveUc')
+auth.set_access_token('1970118768-tUZUlPpMNeMWycB23gkAphGDLzRmjMrI3bfqDdY', 'fyEQQeqp14oRX9cdpYoUNykZfLEEM6Kkozh7QkTiGxHPc')
+api = tweepy.API(auth)
+
+while True:
+    screen_name = raw_input('\nenter a twitter handle:  ')
+    if screen_name == 'q':
+        break
+    artist_tweets = api.user_timeline(screen_name, count=200)
+    tweet_list = [x.text for x in artist_tweets]
+    tweet_str = ' '.join(tweet_list)
+    tokens = vect.transform([tweet_str])
+    distances, indices = nbrs.kneighbors(tokens)
+    artists = [df.artist[i] for i in indices[0]]
+    for i, artist in enumerate(artists):
+        print artist, '  ', distances[0][i]

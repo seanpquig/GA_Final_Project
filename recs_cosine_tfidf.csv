@@ -1,0 +1,777 @@
+,artist,screen_name,hotttnesss,num_tweets,recommendations,scores
+0,Arcade Fire,arcadefire,0.959746,200,"[u'Arcade Fire', u'Big Daddy Weave', u'Boy & Bear', u'The Cranberries', u'Maya Jane Coles']",[ 0.          0.5622194   0.56614606  0.57665396  0.57907521]
+1,Eminem,Eminem,0.945441,200,"[u'Eminem', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'The Cranberries']","[ -2.22044605e-16   4.95223658e-01   5.10188159e-01   5.21516567e-01
+   5.44741177e-01]"
+2,Lorde,lordemusic,0.942642,200,"[u'Lorde', u'Anna Kendrick', u'Maya Jane Coles', u'Katie Melua', u'Ariana Grande']",[ 0.          0.59844667  0.60330201  0.60445525  0.60496589]
+3,Avicii,Avicii,0.940199,200,"[u'Avicii', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   4.44828976e-01   4.70934628e-01   4.82815397e-01
+   4.94729199e-01]"
+4,Lady Gaga,ladygaga,0.926316,200,"[u'Lady Gaga', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Katie Melua']",[ 0.          0.53022918  0.54021555  0.54538556  0.55265818]
+5,Imagine Dragons,Imaginedragons,0.905983,198,"[u'Imagine Dragons', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Ariana Grande']",[ 0.          0.50250606  0.50536252  0.53148284  0.55114487]
+6,Lana Del Rey,LanaDelRey,0.905385,200,"[u'Lana Del Rey', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Lou Reed']",[ 0.          0.46865201  0.47365542  0.5190935   0.52118704]
+7,Robin Thicke,robinthicke,0.900195,200,"[u'Robin Thicke', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Selena Gomez']","[ -2.22044605e-16   5.24552687e-01   5.37546181e-01   5.59911856e-01
+   5.67395853e-01]"
+8,One Direction,onedirection,0.89952,200,"[u'One Direction', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Meat Loaf']","[ -2.22044605e-16   7.14531654e-01   7.20827111e-01   7.24948256e-01
+   7.39041947e-01]"
+9,Britney Spears,britneyspears,0.898823,200,"[u'Britney Spears', u'will.i.am', u'Sia', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.6362566   0.65953778  0.707297    0.70888547]
+10,Bruno Mars,BrunoMars,0.898684,200,"[u'Bruno Mars', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande', u'Boy & Bear']","[ -2.22044605e-16   5.85988659e-01   5.93288916e-01   6.04703406e-01
+   6.10873479e-01]"
+11,OneRepublic,OneRepublic,0.895344,200,"[u'OneRepublic', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.47878051  0.48581187  0.51047287  0.53934479]
+12,Justin Timberlake,jtimberlake,0.894973,200,"[u'Justin Timberlake', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']","[ -2.22044605e-16   7.27346008e-01   7.29900800e-01   7.38064810e-01
+   7.40330135e-01]"
+13,Arctic Monkeys,ArcticMonkeys,0.893465,200,"[u'Arctic Monkeys', u'The Cranberries', u'Massive Attack', u'Selena Gomez', u'Mumford and Sons']",[ 0.          0.51135709  0.52683908  0.52736315  0.52933267]
+14,Rihanna,rihanna,0.892717,200,"[u'Rihanna', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Big Daddy Weave']","[ -2.22044605e-16   5.47444417e-01   5.65986924e-01   5.82381736e-01
+   5.86971197e-01]"
+15,Jason Derülo,jasonderulo,0.891253,200,"[u'Jason Der\xfclo', u'Selena Gomez', u'Maya Jane Coles', u'Big Daddy Weave', u'Massive Attack']","[ -2.22044605e-16   7.17082512e-01   7.22795633e-01   7.30434764e-01
+   7.36634206e-01]"
+16,Calvin Harris,CalvinHarris,0.885646,200,"[u'Calvin Harris', u'Fatboy Slim', u'Selena Gomez', u'Massive Attack', u'Alesso']",[ 0.          0.55713209  0.57964386  0.59075736  0.59771372]
+17,Martin Garrix,MartinGarrix,0.882746,200,"[u'Martin Garrix', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Bastille']","[ -2.22044605e-16   6.25200546e-01   6.42332213e-01   6.47006219e-01
+   6.61584444e-01]"
+18,Passenger,passengermusic,0.882349,200,"[u'Passenger', u'Maya Jane Coles', u'Boy & Bear', u'Goldfrapp', u'Big Daddy Weave']","[ -2.22044605e-16   5.62391435e-01   5.64436525e-01   5.69214011e-01
+   5.76621032e-01]"
+19,Justin Bieber,justinbieber,0.881963,200,"[u'Justin Bieber', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande', u'Boy & Bear']",[ 0.          0.68173882  0.69278535  0.70002262  0.70341984]
+20,Capital Cities,capitalcities,0.881834,200,"[u'Capital Cities', u'Fitz & The Tantrums', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']",[ 0.          0.24261308  0.75024614  0.75819356  0.76339195]
+21,John Newman,JohnNewmanMusic,0.880855,200,"[u'John Newman', u'Rudimental', u'Maya Jane Coles', u'Big Daddy Weave', u'Sub Focus']","[ -2.22044605e-16   5.68555583e-01   5.86487059e-01   6.10501756e-01
+   6.13752433e-01]"
+22,Pitbull,Pitbull,0.875944,200,"[u'Pitbull', u'Ke$ha', u'Inna', u'Big Daddy Weave', u'Maya Jane Coles']",[ 0.          0.46158023  0.73921552  0.76235827  0.76728069]
+23,P!nk,Pink,0.874734,199,"[u'P!nk', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande', u'Miranda Lambert']","[ -2.22044605e-16   5.43544470e-01   5.45244016e-01   5.47975865e-01
+   5.57993237e-01]"
+24,Bastille,BASTILLEdan,0.868897,200,"[u'Bastille', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.44953269  0.45303254  0.46081082  0.51276934]
+25,Avril Lavigne,AvrilLavigne,0.867785,200,"[u'Avril Lavigne', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.57081373  0.59359965  0.60225136  0.60365172]
+26,David Guetta,davidguetta,0.866272,200,"[u'David Guetta', u'Maya Jane Coles', u'Akon', u'Selena Gomez', u'Big Daddy Weave']",[ 0.          0.47815618  0.48569509  0.50892283  0.5119324 ]
+27,James Arthur,JamesArthur23,0.865246,200,"[u'James Arthur', u'Katie Melua', u'Ed Sheeran', u'P!nk', u'Lorde']","[ -2.22044605e-16   8.18579579e-01   8.20371659e-01   8.21145972e-01
+   8.22038094e-01]"
+28,Selena Gomez,selenagomez,0.864422,200,"[u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed', u'Lykke Li']",[ 0.          0.23934935  0.29353929  0.31351503  0.31857949]
+29,Icona Pop,iconapop,0.861703,200,"[u'Icona Pop', u'Selena Gomez', u'Massive Attack', u'Big Daddy Weave', u'Lykke Li']","[ -2.22044605e-16   8.19348134e-01   8.24161546e-01   8.34604563e-01
+   8.36301299e-01]"
+30,Naughty Boy,NaughtyBoyMusic,0.858578,200,"[u'Naughty Boy', u'Emeli Sande', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande']","[ -2.22044605e-16   5.36980221e-01   7.66783570e-01   7.70073373e-01
+   7.72555279e-01]"
+31,Adele,OfficialAdele,0.857546,191,"[u'Adele', u'Maya Jane Coles', u'System of a Down', u'Big Daddy Weave', u'Boy & Bear']",[ 0.          0.72184358  0.72988132  0.73080828  0.73258415]
+32,Paul McCartney,PaulMcCartney,0.856852,200,"[u'Paul McCartney', u'The Beatles', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   6.18968049e-01   7.03671498e-01   7.03806337e-01
+   7.04045194e-01]"
+33,Zedd,Zedd,0.855864,200,"[u'Zedd', u'Nicky Romero', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear']",[ 0.          0.56374002  0.69359403  0.7055702   0.71528677]
+34,Birdy,OfficialBirdy,0.852087,199,"[u'Birdy', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Goldfrapp']",[ 0.          0.64156038  0.65953471  0.66145635  0.66738474]
+35,Haim,HAIMtheband,0.850693,199,"[u'Haim', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   6.16801712e-01   6.24438286e-01   6.24673850e-01
+   6.26562874e-01]"
+36,Linkin Park,linkinpark,0.84884,200,"[u'Linkin Park', u'Massive Attack', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave']",[ 0.          0.59044787  0.59211974  0.59245825  0.59597993]
+37,Lou Reed,LouReed,0.847814,200,"[u'Lou Reed', u'Massive Attack', u'Selena Gomez', u'Trina', u'Lykke Li']",[ 0.          0.30467068  0.31351503  0.3771324   0.39456765]
+38,Maroon 5,maroon5,0.847207,200,"[u'Maroon 5', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.5189991   0.52932633  0.53173982  0.53853526]
+39,Armin van Buuren,arminvanbuuren,0.845704,200,"[u'Armin van Buuren', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   6.47635165e-01   6.60233085e-01   6.72711839e-01
+   6.86148466e-01]"
+40,Marc Anthony,MarcAnthony,0.8448,200,"[u'Marc Anthony', u'No te va Gustar', u'Noel Torres', u'Alejandro Sanz', u'Mal\xfa']","[ -2.22044605e-16   6.31079865e-01   6.41012119e-01   6.51673030e-01
+   6.67811928e-01]"
+41,Demi Lovato,ddlovato,0.843741,199,"[u'Demi Lovato', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear']","[ -2.22044605e-16   5.75513755e-01   5.80402142e-01   5.96874648e-01
+   6.09488692e-01]"
+42,Coldplay,coldplay,0.842819,199,"[u'Coldplay', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   4.85578539e-01   5.00448462e-01   5.10408481e-01
+   5.32077511e-01]"
+43,Paramore,paramore,0.841467,199,"[u'Paramore', u'Metric', u'Big Daddy Weave', u'Maya Jane Coles', u'Selena Gomez']","[ -2.22044605e-16   5.65502690e-01   5.89519778e-01   5.98519207e-01
+   6.01009785e-01]"
+44,Olly Murs,ollyofficial,0.84138,200,"[u'Olly Murs', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Katie Melua']",[ 0.          0.49860459  0.51074951  0.51368159  0.53568686]
+45,AWOLNATION,awolnation,0.840083,199,"[u'AWOLNATION', u'Big Daddy Weave', u'Maya Jane Coles', u'Sara Bareilles', u'Boy & Bear']",[ 0.          0.80678661  0.81139831  0.81480571  0.8155793 ]
+46,Flo Rida,official_flo,0.839649,199,"[u'Flo Rida', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.82510267  0.8352035   0.83628841  0.83703055]
+47,Kings of Leon,KingsOfLeon,0.839169,181,"[u'Kings of Leon', u'Massive Attack', u'Mumford and Sons', u'Selena Gomez', u'The Cranberries']",[ 0.          0.5078656   0.51203311  0.51485552  0.52202481]
+48,G-Dragon,IBGDRGN,0.838516,200,"[u'G-Dragon', u'Psy', u'Selena Gomez', u'Massive Attack', u'Trina']",[ 0.          0.78892     0.80279844  0.80470432  0.81823699]
+49,The Lumineers,thelumineers,0.836348,200,"[u'The Lumineers', u'Big Daddy Weave', u'Selena Gomez', u'Mumford and Sons', u'Boy & Bear']","[ -2.22044605e-16   5.21072178e-01   5.27096127e-01   5.28038197e-01
+   5.34119772e-01]"
+50,Chris Brown,chrisbrown,0.835919,200,"[u'Chris Brown', u'Kid Ink', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons']",[ 0.          0.51963269  0.52237055  0.5360375   0.56207849]
+51,will.i.am,iamwill,0.834285,200,"[u'will.i.am', u'Big Daddy Weave', u'Maya Jane Coles', u'Britney Spears', u'Boy & Bear']","[ -2.22044605e-16   6.22825477e-01   6.31084815e-01   6.36256605e-01
+   6.43840292e-01]"
+52,CHVRCHES,CHVRCHES,0.833085,199,"[u'CHVRCHES', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Booka Shade']","[ -2.22044605e-16   5.49383818e-01   5.50649216e-01   5.53987032e-01
+   5.79178970e-01]"
+53,Metallica,Metallica,0.832087,199,"[u'Metallica', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'The Beatles']","[ -2.22044605e-16   7.63294466e-01   7.70708842e-01   7.75937093e-01
+   7.82894738e-01]"
+54,Jessie J,JessieJ,0.828534,200,"[u'Jessie J', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lykke Li']",[ 0.          0.65211432  0.66445452  0.68833435  0.69247106]
+55,Sean Paul,duttypaul,0.828472,198,"[u'Sean Paul', u'James Blake', u'Selena Gomez', u'Massive Attack', u'The Beatles']",[ 0.          0.90413529  0.90489276  0.90752946  0.90791566]
+56,Fall Out Boy,falloutboy,0.828321,199,"[u'Fall Out Boy', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'Big Daddy Weave']","[ -2.22044605e-16   4.98495231e-01   5.10935691e-01   5.30967612e-01
+   5.38474639e-01]"
+57,Panic! At the Disco,PanicAtTheDisco,0.827717,199,"[u'Panic! At the Disco', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.52439772  0.52856076  0.53786162  0.56694708]
+58,John Legend,johnlegend,0.827702,199,"[u'John Legend', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.47984885  0.48716116  0.50461328  0.52269757]
+59,Jay-Z,S_C_,0.827281,200,"[u'Jay-Z', u'Anna Kendrick', u'Passion Pit', u'Lorde', u'Ariana Grande']","[ -2.22044605e-16   7.48948512e-01   7.58401446e-01   7.69380821e-01
+   7.72873257e-01]"
+60,Cher,cher,0.826867,200,"[u'Cher', u'Lorde', u'Anna Kendrick', u'Goldfrapp', u'Ariana Grande']",[ 0.          0.74732285  0.75311681  0.76742293  0.76938629]
+61,Romeo Santos,RomeoSantosPage,0.824883,199,"[u'Romeo Santos', u'Aventura', u'No te va Gustar', u'Noel Torres', u'Selena Gomez']","[ -2.22044605e-16   2.91955056e-01   8.29923915e-01   8.32219874e-01
+   8.39370476e-01]"
+62,The Wanted,thewanted,0.82462,199,"[u'The Wanted', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Ariana Grande']",[ 0.          0.70734985  0.70799696  0.7117045   0.72244003]
+63,Ariana Grande,ArianaGrande,0.824537,200,"[u'Ariana Grande', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Katie Melua']",[ 0.          0.46866838  0.48325263  0.50274003  0.50562822]
+64,Florida Georgia Line,FLAGALine,0.824472,200,"[u'Florida Georgia Line', u'Big Daddy Weave', u'Boy & Bear', u'Selena Gomez', u'Maya Jane Coles']",[ 0.          0.43026592  0.43065075  0.46485512  0.46691018]
+65,Daddy Yankee,daddy_yankee,0.824196,198,"[u'Daddy Yankee', u'Espinoza Paz', u'Alejandro Sanz', u'Reik', u'Marco Antonio Sol\xeds']","[ -2.22044605e-16   6.64634307e-01   6.65495574e-01   6.84450045e-01
+   6.96148804e-01]"
+66,Kendrick Lamar,kendricklamar,0.82397,200,"[u'Kendrick Lamar', u'Schoolboy Q', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack']",[ 0.          0.46589073  0.6852937   0.68671545  0.69013732]
+67,Depeche Mode,depechemode,0.82226,200,"[u'Depeche Mode', u'Mumford and Sons', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles']",[ 0.          0.60932074  0.61040636  0.61319117  0.61472923]
+68,The Neighbourhood,thenbhd,0.821299,197,"[u'The Neighbourhood', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Cut Copy']",[ 0.          0.61067672  0.63024295  0.63510338  0.66155704]
+69,Macklemore,macklemore,0.820942,200,"[u'Macklemore', u'Big Daddy Weave', u'Maya Jane Coles', u'Selena Gomez', u'Boy & Bear']",[ 0.          0.53394705  0.54897116  0.55931058  0.56189956]
+70,La Oreja de Van Gogh,laorejadevgogh,0.820514,200,"[u'La Oreja de Van Gogh', u'No te va Gustar', u'Reik', u'Alejandro Sanz', u'Dani Mart\xedn']",[ 0.          0.38381647  0.39962647  0.40281924  0.42695368]
+71,Blake Shelton,blakeshelton,0.819392,200,"[u'Blake Shelton', u'Miranda Lambert', u'Big Daddy Weave', u'Anna Kendrick', u'Maya Jane Coles']",[ 0.          0.4521816   0.62445704  0.6307027   0.63153803]
+72,Chase & Status,chaseandstatus,0.819305,200,"[u'Chase & Status', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Sub Focus']",[ 0.          0.54516386  0.55545251  0.55669328  0.55836075]
+73,The Killers,thekillers,0.81833,198,"[u'The Killers', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.56205899  0.56397897  0.5948807   0.60470622]
+74,Rudimental,RudimentalUk,0.818212,200,"[u'Rudimental', u'Maya Jane Coles', u'Big Daddy Weave', u'John Newman', u'Boy & Bear']","[ -2.22044605e-16   5.53559405e-01   5.60224028e-01   5.68555583e-01
+   5.79457012e-01]"
+75,Michael Jackson,michaeljackson,0.817399,200,"[u'Michael Jackson', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Massive Attack']","[ -2.22044605e-16   5.70934991e-01   5.88831997e-01   5.92692413e-01
+   5.98669250e-01]"
+76,Fergie,Fergie,0.817206,200,"[u'Fergie', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   4.14253512e-01   4.32727491e-01   4.58268793e-01
+   4.80709377e-01]"
+77,Iggy Azalea,IGGYAZALEA,0.816537,200,"[u'Iggy Azalea', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.46962972  0.50290575  0.51117992  0.51976415]
+78,Little Mix,LittleMixOffic,0.815626,200,"[u'Little Mix', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Booka Shade']","[ -2.22044605e-16   7.80874739e-01   7.83919754e-01   7.85525741e-01
+   7.91903040e-01]"
+79,Kelly Clarkson,kelly_clarkson,0.813799,200,"[u'Kelly Clarkson', u'Maya Jane Coles', u'Big Daddy Weave', u'Parov Stelar', u'Ariana Grande']",[ 0.          0.52380229  0.52946484  0.55711397  0.55724404]
+80,Keith Urban,KeithUrban,0.812517,199,"[u'Keith Urban', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Harry Connick, Jr.']",[ 0.          0.57134638  0.59290844  0.59828228  0.60079143]
+81,J. Cole,JColeNC,0.812512,197,"[u'J. Cole', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.71697319  0.71698512  0.71861611  0.72905534]
+82,Pablo Alboran,pabloalboran,0.811179,198,"[u'Pablo Alboran', u'Reik', u'No te va Gustar', u'Alejandro Sanz', u'Mal\xfa']",[ 0.          0.54273208  0.57798635  0.58845279  0.59736441]
+83,Alicia Keys,aliciakeys,0.81113,200,"[u'Alicia Keys', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Ariana Grande']",[ 0.          0.62048415  0.6250769   0.6495998   0.65093392]
+84,The Beatles,thebeatles,0.810456,200,"[u'The Beatles', u'Mumford and Sons', u'Big Daddy Weave', u'Massive Attack', u'Maya Jane Coles']",[ 0.          0.43969852  0.44235618  0.44854562  0.453095  ]
+85,The 1975,the1975,0.810444,200,"[u'The 1975', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']",[ 0.          0.44281114  0.44963884  0.48825352  0.49643435]
+86,Major Lazer,majorlazer,0.809809,200,"[u'Major Lazer', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'Maya Jane Coles']",[ 0.          0.81091926  0.81218892  0.82408414  0.82455852]
+87,Conor Maynard,ConorMaynard,0.808266,200,"[u'Conor Maynard', u'Maya Jane Coles', u'Big Daddy Weave', u'Labrinth', u'Boy & Bear']","[ -2.22044605e-16   6.46794113e-01   6.56640571e-01   6.59687634e-01
+   6.64155746e-01]"
+88,Big Sean,BigSean,0.806991,200,"[u'Big Sean', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Lykke Li']",[ 0.          0.50451761  0.52211646  0.54907979  0.55783478]
+89,Nicki Minaj,NICKIMINAJ,0.806101,200,"[u'Nicki Minaj', u'Selena Gomez', u'Meek Mill', u'Massive Attack', u'Trina']","[ -2.22044605e-16   6.26685644e-01   6.30945765e-01   6.47558460e-01
+   6.52463167e-01]"
+90,Jason Mraz,jason_mraz,0.806046,200,"[u'Jason Mraz', u'Big Daddy Weave', u'Maya Jane Coles', u'Travie McCoy', u'Selena Gomez']",[ 0.          0.44054753  0.44742351  0.45433384  0.46114776]
+91,Mumford and Sons,MumfordAndSons,0.805063,160,"[u'Mumford and Sons', u'Massive Attack', u'Selena Gomez', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.38960232  0.39785002  0.42063456  0.42175   ]
+92,Malú,_MaluOficial_,0.804619,200,"[u'Mal\xfa', u'No te va Gustar', u'Alejandro Sanz', u'Noel Torres', u'La Oreja de Van Gogh']",[ 0.          0.37845505  0.40530394  0.41816116  0.42923138]
+93,Swedish House Mafia,swedishousemfia,0.804454,198,"[u'Swedish House Mafia', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Meat Loaf']",[ 0.          0.60147596  0.60934156  0.6211101   0.64631494]
+94,Alejandro Fernández,alexoficial,0.804034,200,"[u'Alejandro Fern\xe1ndez', u'Alejandro Sanz', u'Reik', u'No te va Gustar', u'Noel Torres']","[ -2.22044605e-16   5.19938445e-01   5.28162315e-01   5.39729956e-01
+   5.60382744e-01]"
+95,Tom Odell,tompeterodell,0.803936,200,"[u'Tom Odell', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.50910432  0.51395789  0.52113863  0.55092294]
+96,Jason Aldean,Jason_Aldean,0.803855,200,"[u'Jason Aldean', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Massive Attack']",[ 0.          0.57313125  0.57416029  0.58672778  0.59106385]
+97,Guns N' Roses,gunsnroses,0.803601,200,"[u""Guns N' Roses"", u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Big Daddy Weave']","[ -2.22044605e-16   6.05404288e-01   6.06876819e-01   6.14395553e-01
+   6.17954298e-01]"
+98,Tinie Tempah,TinieTempah,0.802608,200,"[u'Tinie Tempah', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave', u'Boy & Bear']","[ -2.22044605e-16   6.95248732e-01   6.99371189e-01   7.03704252e-01
+   7.08251436e-01]"
+99,Skrillex,Skrillex,0.802574,200,"[u'Skrillex', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear']",[ 0.          0.6291419   0.643287    0.65183452  0.65488312]
+100,Dani Martín,_danielmartin_,0.802262,200,"[u'Dani Mart\xedn', u'Alejandro Sanz', u'Reik', u'La Oreja de Van Gogh', u'Mal\xfa']","[ -2.22044605e-16   3.91174251e-01   4.18956029e-01   4.26953679e-01
+   4.34096201e-01]"
+101,Fleetwood Mac,fleetwoodmac,0.802116,118,"[u'Fleetwood Mac', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.71152134  0.72259706  0.72314604  0.7253447 ]
+102,Franz Ferdinand,Franz_Ferdinand,0.802096,200,"[u'Franz Ferdinand', u'Boy & Bear', u'Big Daddy Weave', u'Goldfrapp', u'Maya Jane Coles']","[ -2.22044605e-16   6.68943142e-01   6.72515437e-01   6.80487306e-01
+   6.84342349e-01]"
+103,Radiohead,radiohead,0.800365,141,"[u'Radiohead', u'Massive Attack', u'Selena Gomez', u'Mumford and Sons', u'The Cranberries']","[ -2.22044605e-16   5.95796496e-01   6.04579728e-01   6.23457547e-01
+   6.29741929e-01]"
+104,Sara Bareilles,SaraBareilles,0.800336,200,"[u'Sara Bareilles', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Meat Loaf']",[ 0.          0.45504022  0.45647447  0.49178648  0.49427369]
+105,Jack Johnson,jackjohnson,0.799776,195,"[u'Jack Johnson', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'Rise Against']",[ 0.          0.66144846  0.66427879  0.66718391  0.67275157]
+106,Red Hot Chili Peppers,ChiliPeppers,0.799769,200,"[u'Red Hot Chili Peppers', u'Mumford and Sons', u'The Cranberries', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.64250518  0.64751545  0.65254477  0.6560414 ]
+107,The Script,thescript,0.799746,199,"[u'The Script', u'Train', u'Big Daddy Weave', u'Maya Jane Coles', u'Sara Bareilles']",[ 0.          0.85804762  0.8653923   0.86925508  0.86950956]
+108,Christina Aguilera,xtina,0.79962,200,"[u'Christina Aguilera', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Maroon 5']","[ -2.22044605e-16   6.28730212e-01   6.32182521e-01   6.51777655e-01
+   6.51857773e-01]"
+109,Emeli Sande,emelisande,0.799588,200,"[u'Emeli Sande', u'Naughty Boy', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez']",[ 0.          0.53698022  0.54005428  0.55457895  0.56750511]
+110,Of Monsters and Men,monstersandmen,0.799277,200,"[u'Of Monsters and Men', u'Boy & Bear', u'Big Daddy Weave', u'The Cranberries', u'Mumford and Sons']",[ 0.          0.50351797  0.5056021   0.53165185  0.53337887]
+111,Lil Wayne,LilTunechi,0.79915,200,"[u'Lil Wayne', u'Jaheim', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande']",[ 0.          0.67014245  0.67750953  0.68665406  0.68945825]
+112,Two Door Cinema Club,TDCinemaClub,0.79897,200,"[u'Two Door Cinema Club', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Sub Focus']","[ -2.22044605e-16   4.63396324e-01   4.69004401e-01   4.83103297e-01
+   5.18231860e-01]"
+113,Thomas Rhett,ThomasRhett,0.798851,200,"[u'Thomas Rhett', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear']",[ 0.          0.49062098  0.50439491  0.5225667   0.52573737]
+114,The Saturdays,TheSaturdays,0.798306,200,"[u'The Saturdays', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Cut Copy']",[ 0.          0.6158515   0.62343885  0.62919754  0.6559088 ]
+115,Michael Bublé,michaelbuble,0.7975,198,"[u'Michael Bubl\xe9', u'Michael Jackson', u'Big Daddy Weave', u'Selena Gomez', u'Massive Attack']","[ -2.22044605e-16   6.09291382e-01   6.39131587e-01   6.45953977e-01
+   6.47625383e-01]"
+116,Pink Floyd,pinkfloyd,0.797144,200,"[u'Pink Floyd', u'P!nk', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   6.03420588e-01   6.93994593e-01   6.94464737e-01
+   7.01833572e-01]"
+117,Shreya Ghoshal,shreyaghoshal,0.795924,200,"[u'Shreya Ghoshal', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']","[ -2.22044605e-16   6.90277318e-01   6.93016033e-01   7.02814736e-01
+   7.08427000e-01]"
+118,Alan Jackson,OfficialJackson,0.795603,200,"[u'Alan Jackson', u'Big Daddy Weave', u'Maya Jane Coles', u'Selena Gomez', u'Boy & Bear']",[ 0.          0.50320866  0.51515882  0.52937721  0.53362347]
+119,Dizzee Rascal,DizzeeRascal,0.795153,199,"[u'Dizzee Rascal', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande', u'Sara Bareilles']",[ 0.          0.71949282  0.72601298  0.73347899  0.73949382]
+120,Jennifer Lopez,JLo,0.794777,199,"[u'Jennifer Lopez', u'Harry Connick, Jr.', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande']","[ -2.22044605e-16   6.84280706e-01   7.08867428e-01   7.11657755e-01
+   7.19210211e-01]"
+121,Carly Rae Jepsen,carlyraejepsen,0.794115,200,"[u'Carly Rae Jepsen', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear']","[ -2.22044605e-16   5.02722427e-01   5.09306936e-01   5.30878820e-01
+   5.39040052e-01]"
+122,Psy,psy_oppa,0.793622,199,"[u'Psy', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Maya Jane Coles']",[ 0.          0.61823308  0.62595956  0.65535381  0.65891492]
+123,Empire of the Sun,EmpireOfTheSun,0.793415,200,"[u'Empire of the Sun', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   4.88870879e-01   4.98949742e-01   5.08319789e-01
+   5.18965224e-01]"
+124,Gavin DeGraw,GavinDeGraw,0.792726,200,"[u'Gavin DeGraw', u'Maya Jane Coles', u'Boy & Bear', u'Big Daddy Weave', u'Train']",[ 0.          0.71567143  0.72040208  0.72250319  0.72825877]
+125,Ricky Martin,ricky_martin,0.792444,200,"[u'Ricky Martin', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Trina']","[ -2.22044605e-16   5.70487046e-01   5.85437430e-01   6.16433965e-01
+   6.21687503e-01]"
+126,LMFAO,LMFAO,0.792432,200,"[u'LMFAO', u'Red Foo', u'Selena Gomez', u'Maya Jane Coles', u'Ariana Grande']","[ -2.22044605e-16   2.79009077e-01   7.82816353e-01   7.86040180e-01
+   7.87529690e-01]"
+127,Moby,thelittleidiot,0.791905,200,"[u'Moby', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Meat Loaf']",[ 0.          0.49637775  0.50380352  0.52295619  0.5446194 ]
+128,Rizzle Kicks,RizzleKicks,0.791897,200,"[u'Rizzle Kicks', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']",[ 0.          0.65163664  0.66146272  0.66341611  0.67545741]
+129,Jake Bugg,JakeBugg,0.790709,198,"[u'Jake Bugg', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Sub Focus']",[ 0.          0.49919311  0.52550779  0.53695868  0.54077356]
+130,Zoé,zoetheband,0.790634,200,"[u'Zo\xe9', u'No te va Gustar', u'Banda El Recodo', u'La Oreja de Van Gogh', u'Reik']","[ -2.22044605e-16   5.87260340e-01   6.22767440e-01   6.37009258e-01
+   6.37385811e-01]"
+131,Sting,OfficialSting,0.790612,200,"[u'Sting', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   6.05749279e-01   6.09731277e-01   6.11855153e-01
+   6.15893149e-01]"
+132,The Rolling Stones,RollingStones,0.790212,200,"[u'The Rolling Stones', u'Maya Jane Coles', u'Mumford and Sons', u'Big Daddy Weave', u'Massive Attack']",[ 0.          0.61452623  0.62151282  0.62236981  0.62272036]
+133,Elton John,eltonjohndotcom,0.790085,200,"[u'Elton John', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   5.79523250e-01   5.86673861e-01   5.88101146e-01
+   5.89793186e-01]"
+134,Led Zeppelin,ledzeppelin,0.788932,46,"[u'Led Zeppelin', u'Massive Attack', u'Selena Gomez', u'Lou Reed', u'Trina']","[ -2.22044605e-16   7.70593427e-01   7.81956755e-01   7.96889075e-01
+   7.97959682e-01]"
+135,A Day to Remember,joshuawoodard,0.788376,200,"[u'A Day to Remember', u'Selena Gomez', u'All Time Low', u'Massive Attack', u'Big Daddy Weave']",[ 0.          0.63890308  0.65109171  0.65618445  0.67433673]
+136,Lady Antebellum,ladyantebellum,0.786813,200,"[u'Lady Antebellum', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.57087665  0.57982294  0.58301047  0.61259035]
+137,Green Day,GreenDay,0.786454,200,"[u'Green Day', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'The Cranberries']",[ 0.          0.56636483  0.56896773  0.57621895  0.5823159 ]
+138,Inna,inna_ro,0.786131,199,"[u'Inna', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Trina']",[ 0.          0.50222204  0.52832675  0.56031688  0.56052175]
+139,Lata Mangeshkar,mangeshkarlata,0.785858,200,"[u'Lata Mangeshkar', u'Atif Aslam', u'Asha Bhosle', u'Jaheim', u'Selena Gomez']",[ 0.          0.68450309  0.82136924  0.83407658  0.84692081]
+140,Tim McGraw,TheTimMcGraw,0.785631,199,"[u'Tim McGraw', u'Faith Hill', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   5.42434404e-01   6.49804497e-01   6.50864638e-01
+   6.53380361e-01]"
+141,Havana Brown,djhavanabrown,0.785552,196,"[u'Havana Brown', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   7.42797660e-01   7.48347746e-01   7.55937117e-01
+   7.59562004e-01]"
+142,Wilkinson,WilkinsonUK,0.785349,200,"[u'Wilkinson', u'Sub Focus', u'Maya Jane Coles', u'Big Daddy Weave', u'Bastille']","[ -2.22044605e-16   7.13327505e-01   7.30091800e-01   7.49605642e-01
+   7.50220830e-01]"
+143,Nine Inch Nails,nineinchnails,0.785348,200,"[u'Nine Inch Nails', u'Massive Attack', u'Selena Gomez', u'Mumford and Sons', u'The Cranberries']",[ 0.          0.49605573  0.50066151  0.51673474  0.52066474]
+144,Lykke Li,LykkeLi,0.785162,200,"[u'Lykke Li', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   3.18579494e-01   3.35278673e-01   3.91164864e-01
+   3.94567648e-01]"
+145,Alejandro Sanz,AlejandroSanz,0.784345,200,"[u'Alejandro Sanz', u'Reik', u'Dani Mart\xedn', u'No te va Gustar', u'La Oreja de Van Gogh']","[ -2.22044605e-16   3.78139535e-01   3.91174251e-01   3.98013143e-01
+   4.02819241e-01]"
+146,Zendaya,Zendaya,0.784342,200,"[u'Zendaya', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']","[ -2.22044605e-16   6.65927048e-01   6.79564123e-01   6.81367868e-01
+   6.86945284e-01]"
+147,Steve Aoki,steveaoki,0.784279,200,"[u'Steve Aoki', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Lykke Li']",[ 0.          0.62089705  0.62958889  0.65339333  0.66078315]
+148,Agnes Obel,agnesobel,0.784252,147,"[u'Agnes Obel', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Mumford and Sons']",[ 0.          0.72584818  0.72955379  0.73122336  0.73315416]
+149,Christina Perri,christinaperri,0.784045,200,"[u'Christina Perri', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Sara Bareilles']","[ -2.22044605e-16   4.75371051e-01   4.91344781e-01   5.01827546e-01
+   5.17269982e-01]"
+150,Wiz Khalifa,wizkhalifa,0.783989,200,"[u'Wiz Khalifa', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave', u'Massive Attack']",[ 0.          0.62364531  0.62560923  0.63411379  0.63462246]
+151,MGMT,whoisMGMT,0.783861,200,"[u'MGMT', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']","[ -2.22044605e-16   4.81921398e-01   4.96800773e-01   5.01620153e-01
+   5.24721251e-01]"
+152,Alesso,Alesso,0.783272,198,"[u'Alesso', u'Calvin Harris', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles']",[ 0.          0.59771372  0.79481434  0.8002769   0.80437616]
+153,Jessica Mauboy,jessicamauboy,0.782921,195,"[u'Jessica Mauboy', u'Ariana Grande', u'Maya Jane Coles', u'Big Daddy Weave', u'Katie Melua']","[ -2.22044605e-16   7.37889973e-01   7.41524099e-01   7.41784327e-01
+   7.45349984e-01]"
+154,The Black Keys,theblackkeys,0.782857,200,"[u'The Black Keys', u'Mumford and Sons', u'Big Daddy Weave', u'The Cranberries', u'Maya Jane Coles']",[ 0.          0.54467334  0.55691803  0.55903245  0.56013597]
+155,Sub Focus,subfocus,0.782497,199,"[u'Sub Focus', u'Maya Jane Coles', u'Boy & Bear', u'Big Daddy Weave', u'Parov Stelar']",[ 0.          0.39181713  0.44744541  0.44913461  0.46566239]
+156,Lawson,LawsonOfficial,0.782288,200,"[u'Lawson', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Katie Melua']",[ 0.          0.66960646  0.67336256  0.68720738  0.69214064]
+157,Shakira,shakira,0.782161,200,"[u'Shakira', u'No te va Gustar', u'Reik', u'Banda El Recodo', u'Alejandro Sanz']",[ 0.          0.65034567  0.69295346  0.69692909  0.69815737]
+158,Tegan and Sara,teganandsara,0.782124,200,"[u'Tegan and Sara', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'fun.']","[ -2.22044605e-16   4.59009420e-01   4.76259483e-01   4.86756192e-01
+   5.11742850e-01]"
+159,M83,m83news,0.781845,198,"[u'M83', u'Mumford and Sons', u'The Cranberries', u'Maya Jane Coles', u'Big Daddy Weave']","[ -2.22044605e-16   5.85019182e-01   5.87358031e-01   5.87605966e-01
+   5.92052911e-01]"
+160,30 Seconds to Mars,30SECONDSTOMARS,0.78171,200,"[u'30 Seconds to Mars', u'You Me At Six', u'Selena Gomez', u'Massive Attack', u'Big Daddy Weave']","[ -2.22044605e-16   5.66189060e-01   6.13107618e-01   6.31538340e-01
+   6.40113189e-01]"
+161,Cage the Elephant,CageTheElephant,0.781303,200,"[u'Cage the Elephant', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']","[ -2.22044605e-16   6.79578456e-01   6.80661116e-01   6.87414651e-01
+   6.89935771e-01]"
+162,Evanescence,evanescence,0.781187,198,"[u'Evanescence', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   6.33305844e-01   6.45918381e-01   6.51251121e-01
+   6.69554182e-01]"
+163,The Weeknd,theweeknd,0.781082,200,"[u'The Weeknd', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Selena Gomez']","[ -2.22044605e-16   5.79842795e-01   5.80693170e-01   5.95599729e-01
+   5.98119138e-01]"
+164,Banda Los Recoditos,BANDARECODITOSS,0.781042,199,"[u'Banda Los Recoditos', u'Banda El Recodo', u'No te va Gustar', u'Reik', u'Mal\xfa']",[ 0.          0.31755134  0.39168891  0.44537023  0.46257415]
+165,Krewella,krewellayasmine,0.781006,200,"[u'Krewella', u'Anna Kendrick', u'Ariana Grande', u'Big Daddy Weave', u'Maya Jane Coles']","[ -2.22044605e-16   6.21596837e-01   6.24126835e-01   6.33819003e-01
+   6.34948866e-01]"
+166,The BossHoss,thebosshoss,0.780675,200,"[u'The BossHoss', u'Max Herre', u'Marteria', u'Helene Fischer', u'Andrea Berg']","[ -2.22044605e-16   6.70388320e-01   7.11717655e-01   7.41863613e-01
+   7.47203595e-01]"
+167,きゃりーぱみゅぱみゅ,pamyurin,0.779836,200,"[u'\u304d\u3083\u308a\u30fc\u3071\u307f\u3085\u3071\u307f\u3085', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']",[ 0.          0.54514305  0.55033211  0.57664542  0.58667862]
+168,Scandal,scandal_band,0.779019,200,"[u'Scandal', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']","[ -2.22044605e-16   7.47212487e-01   7.48420640e-01   7.61460615e-01
+   7.65061989e-01]"
+169,Luan Santana,luansantana,0.77892,200,"[u'Luan Santana', u'Pitty', u'Munhoz & Mariano', u'CPM 22', u'Grupo Bom Gosto']",[ 0.          0.58931579  0.59374782  0.60727485  0.60811139]
+170,Cassadee Pope,CassadeePope,0.778848,200,"[u'Cassadee Pope', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande', u'Boy & Bear']","[ -2.22044605e-16   5.10270683e-01   5.20173826e-01   5.33566712e-01
+   5.34867155e-01]"
+171,Dimitri Vegas,dimitrivegas,0.778785,199,"[u'Dimitri Vegas', u'David Guetta', u'Maya Jane Coles', u'Nicky Romero', u'Big Daddy Weave']",[ 0.          0.81075697  0.81733055  0.81876494  0.82437997]
+172,2PM,follow_2PM,0.778332,63,"[u'2PM', u'Boy & Bear', u'Arcade Fire', u'Big Daddy Weave', u'Eminem']","[ -2.22044605e-16   7.56536661e-01   7.58973228e-01   7.61649106e-01
+   7.66587013e-01]"
+173,David Bisbal,davidbisbal,0.778255,200,"[u'David Bisbal', u'Marco Antonio Sol\xeds', u'Alejandro Sanz', u'Reik', u'Mal\xfa']",[ 0.          0.37895486  0.45108944  0.49262231  0.50653658]
+174,Juan Magan,JuanMaganMusic,0.777596,174,"[u'Juan Magan', u'No te va Gustar', u'La Oreja de Van Gogh', u'Mal\xfa', u'Banda El Recodo']","[ -2.22044605e-16   6.26368578e-01   6.50111135e-01   6.53881050e-01
+   6.54434862e-01]"
+175,Phoenix,wearephoenix,0.777539,200,"[u'Phoenix', u'Selena Gomez', u'Massive Attack', u'Big Daddy Weave', u'Booka Shade']",[ 0.          0.66397951  0.66524433  0.67143974  0.67807199]
+176,Vampire Weekend,vampireweekend,0.777485,150,"[u'Vampire Weekend', u'Boy & Bear', u'Big Daddy Weave', u'The Cranberries', u'Maya Jane Coles']",[ 0.          0.51104927  0.51141649  0.52105175  0.52242493]
+177,Phillip Phillips,Phillips,0.777288,200,"[u'Phillip Phillips', u'Imagine Dragons', u'Maya Jane Coles', u'Ariana Grande', u'Big Daddy Weave']",[ 0.          0.59351551  0.65613859  0.65919383  0.66605585]
+178,Sunidhi Chauhan,SunidhiChauhan5,0.776882,199,"[u'Sunidhi Chauhan', u'Sara Bareilles', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande']",[ 0.          0.8118099   0.81252755  0.8130668   0.81764949]
+179,Bob Marley,bobmarley,0.776214,200,"[u'Bob Marley', u'Massive Attack', u'Selena Gomez', u'Mumford and Sons', u'Big Daddy Weave']",[ 0.          0.46357559  0.46510711  0.49868332  0.50340405]
+180,Tyler Farr,tylerfarr,0.776127,199,"[u'Tyler Farr', u'Florida Georgia Line', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   6.13280437e-01   7.00944509e-01   7.02367208e-01
+   7.11150011e-01]"
+181,Kodaline,Kodaline,0.775659,200,"[u'Kodaline', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.56606429  0.57033865  0.58460349  0.6099442 ]
+182,Ed Sheeran,edsheeran,0.775611,200,"[u'Ed Sheeran', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']",[ 0.          0.50169637  0.50180025  0.51322957  0.5169905 ]
+183,Vitaa,VitaaOfficiel,0.775543,200,"[u'Vitaa', u'Emmanuel Moire', u'Joyce Jonathan', u'Booba', u'No te va Gustar']","[ -2.22044605e-16   6.46249012e-01   6.60394789e-01   8.11616060e-01
+   8.54932976e-01]"
+184,Nickelback,Nickelback,0.775506,200,"[u'Nickelback', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']","[ -2.22044605e-16   4.90995425e-01   4.94761386e-01   5.22281996e-01
+   5.42729150e-01]"
+185,Kid Ink,Kid_Ink,0.775344,200,"[u'Kid Ink', u'Chris Brown', u'Mumford and Sons', u'Big Daddy Weave', u'Maya Jane Coles']",[ 0.          0.51963269  0.73018374  0.73421874  0.73535206]
+186,Family of the Year,FamilyoftheYear,0.77484,198,"[u'Family of the Year', u'Atlas Genius', u'Big Daddy Weave', u'Boy & Bear', u'Ms Mr']","[ -2.22044605e-16   4.16485353e-01   6.68812827e-01   6.76329885e-01
+   6.94591211e-01]"
+187,Snoop Dogg,SnoopDogg,0.774494,198,"[u'Snoop Dogg', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   6.23974122e-01   6.33633863e-01   6.59603254e-01
+   6.67324690e-01]"
+188,Oasis,oasis,0.774308,200,"[u'Oasis', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons', u'Big Daddy Weave']",[ 0.          0.72801661  0.72938245  0.73447682  0.73630176]
+189,Tiësto,tiesto,0.774059,200,"[u'Ti\xebsto', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack', u'Big Daddy Weave']",[ 0.          0.73339677  0.73416978  0.74551887  0.74560537]
+190,Aloe Blacc,aloeblacc,0.773997,198,"[u'Aloe Blacc', u'Avicii', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack']","[ -2.22044605e-16   6.15218620e-01   7.20903690e-01   7.27727015e-01
+   7.29740040e-01]"
+191,Vasco Rossi,vascorossi,0.773796,200,"[u'Vasco Rossi', u'Massive Attack', u'Selena Gomez', u'Trina', u'Lou Reed']",[ 0.          0.67298298  0.68736915  0.71297817  0.71585117]
+192,Foo Fighters,foofighters,0.773752,200,"[u'Foo Fighters', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']","[ -2.22044605e-16   5.88981882e-01   5.98760052e-01   6.29855027e-01
+   6.29997921e-01]"
+193,Ciara,ciara,0.77346,197,"[u'Ciara', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lykke Li']","[ -2.22044605e-16   5.47822483e-01   5.71228630e-01   5.94693681e-01
+   5.95360012e-01]"
+194,Babasónicos,Babasonicos_,0.773402,200,"[u'Babas\xf3nicos', u'No te va Gustar', u'Banda El Recodo', u'Banda Los Recoditos', u'Reik']","[ -2.22044605e-16   4.71738057e-01   5.28476612e-01   5.47241772e-01
+   5.56747083e-01]"
+195,Gusttavo Lima,Gusttavo_lima,0.773098,200,"[u'Gusttavo Lima', u'Pitty', u'Jo\xe3o Neto e Frederico', u'Ivete Sangalo', u'Michel Tel\xf3']",[ 0.          0.63016495  0.63438359  0.70496895  0.73795229]
+196,Karmin,karminmusic,0.77282,200,"[u'Karmin', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande', u'Boy & Bear']",[ 0.          0.75621196  0.76357163  0.76599457  0.76719159]
+197,CPM 22,CPM22,0.772319,200,"[u'CPM 22', u'Luan Santana', u'Selena Gomez', u'Massive Attack', u'Pitty']",[ 0.          0.60727485  0.62146113  0.62248866  0.62944789]
+198,絢香,Ayaka_1218,0.772059,200,"[u'\u7d62\u9999', u'Selena Gomez', u'Massive Attack', u'Trina', u'James Blake']","[ -2.22044605e-16   8.55492397e-01   8.58237458e-01   8.64223097e-01
+   8.67199312e-01]"
+199,AFI,AFI,0.771745,200,"[u'AFI', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.65420991  0.65520676  0.66017711  0.66627295]
+200,Hunter Hayes,HunterHayes,0.771574,200,"[u'Hunter Hayes', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Jason Mraz']",[ 0.          0.6680475   0.67790983  0.68340315  0.6920184 ]
+201,Trivium,TriviumOfficial,0.771485,200,"[u'Trivium', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'Lou Reed']",[ 0.          0.6471942   0.64846928  0.67233162  0.68154466]
+202,Tamar Braxton,TamarBraxtonHer,0.771312,199,"[u'Tamar Braxton', u'John Legend', u'Ariana Grande', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.80132151  0.8494669   0.84964685  0.85163638]
+203,Eros Ramazzotti,RamazzottiEros,0.771296,197,"[u'Eros Ramazzotti', u'Emis Killa', u'Vasco Rossi', u'Marco Antonio Sol\xeds', u'Dani Mart\xedn']",[ 0.          0.87365206  0.87912093  0.90729712  0.91831461]
+204,DJ Khaled,djkhaled,0.771278,200,"[u'DJ Khaled', u'Selena Gomez', u'Massive Attack', u'Trina', u'Akon']","[ -2.22044605e-16   6.89804890e-01   6.97804539e-01   7.13991562e-01
+   7.16383567e-01]"
+205,Joe Nichols,JoeNichols,0.770967,199,"[u'Joe Nichols', u'Big Daddy Weave', u'Maya Jane Coles', u'Cassadee Pope', u'Boy & Bear']",[ 0.          0.75417359  0.75785451  0.76597337  0.76712917]
+206,Dvbbs,DVBBS,0.770844,200,"[u'Dvbbs', u'Krewella', u'Big Daddy Weave', u'Ariana Grande', u'Maya Jane Coles']",[ 0.          0.80197622  0.82186005  0.82449721  0.82787237]
+207,Fettes Brot,fettesbrot,0.770724,200,"[u'Fettes Brot', u'Max Herre', u'Marteria', u'Helene Fischer', u'Andrea Berg']","[ -2.22044605e-16   6.62264627e-01   6.87747257e-01   7.43511342e-01
+   7.47713086e-01]"
+208,System of a Down,systemofadown,0.770293,135,"[u'System of a Down', u'The Cranberries', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles']","[ -2.22044605e-16   5.93309142e-01   5.96844984e-01   6.10391711e-01
+   6.14669108e-01]"
+209,Flume,flumemusic,0.769729,200,"[u'Flume', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Tame Impala']","[ -2.22044605e-16   5.34197415e-01   5.47606908e-01   5.80522417e-01
+   5.87118284e-01]"
+210,Keane,keaneofficial,0.76965,200,"[u'Keane', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   7.41370103e-01   7.42352545e-01   7.47990919e-01
+   7.64243831e-01]"
+211,The Avett Brothers,theavettbros,0.769437,199,"[u'The Avett Brothers', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.55341652  0.56864209  0.57566955  0.59509467]
+212,Carlos Vives,carlosvives,0.769207,200,"[u'Carlos Vives', u'No te va Gustar', u'Mal\xfa', u'Reik', u'Alejandro Sanz']",[ 0.          0.52319515  0.54300874  0.5478364   0.55143066]
+213,Foster the People,fosterthepeople,0.768617,191,"[u'Foster the People', u'Big Daddy Weave', u'Maya Jane Coles', u'Katie Melua', u'Boy & Bear']","[ -2.22044605e-16   6.78440523e-01   6.84815104e-01   6.89671635e-01
+   6.91470055e-01]"
+214,Miguel,MiguelUnlimited,0.768094,200,"[u'Miguel', u'Big Daddy Weave', u'Ariana Grande', u'Maya Jane Coles', u'Sara Bareilles']","[ -2.22044605e-16   7.39341801e-01   7.47999397e-01   7.55222677e-01
+   7.58186494e-01]"
+215,Sky Ferreira,skyferreira,0.767619,195,"[u'Sky Ferreira', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack', u'Sara Bareilles']","[ -2.22044605e-16   7.11862737e-01   7.22105553e-01   7.30215857e-01
+   7.33185577e-01]"
+216,Don Omar,DONOMAR,0.767318,200,"[u'Don Omar', u'La Oreja de Van Gogh', u'Alejandro Sanz', u'No te va Gustar', u'Reik']",[ 0.          0.72248716  0.72261009  0.72385355  0.72490017]
+217,Lee Brice,leebrice,0.765925,200,"[u'Lee Brice', u'Big Daddy Weave', u'Maya Jane Coles', u'Florida Georgia Line', u'Boy & Bear']",[ 0.          0.6815078   0.68432686  0.68860661  0.69496945]
+218,Mariah Carey,MariahCarey,0.765634,200,"[u'Mariah Carey', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Massive Attack']",[ 0.          0.56117167  0.56853087  0.57441677  0.58006192]
+219,Reik,ReikMx,0.765304,200,"[u'Reik', u'No te va Gustar', u'Alejandro Sanz', u'La Oreja de Van Gogh', u'Noel Torres']","[ -2.22044605e-16   3.53814163e-01   3.78139535e-01   3.99626470e-01
+   4.17031232e-01]"
+220,Motörhead,myMotorhead,0.765201,200,"[u'Mot\xf6rhead', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Asking Alexandria']","[ -2.22044605e-16   7.53614361e-01   7.56511005e-01   7.58865402e-01
+   7.62377908e-01]"
+221,Emmanuel Moire,EmoireOff,0.764528,200,"[u'Emmanuel Moire', u'Joyce Jonathan', u'Vitaa', u'Booba', u'Bob Sinclar']","[ -2.22044605e-16   4.03920759e-01   6.46249012e-01   7.22579574e-01
+   7.89700491e-01]"
+222,You Me At Six,youmeatsix,0.764453,199,"[u'You Me At Six', u'Big Daddy Weave', u'Boy & Bear', u'Mumford and Sons', u'Maya Jane Coles']","[ -2.22044605e-16   4.59409914e-01   4.65472610e-01   4.90190509e-01
+   4.91086616e-01]"
+223,Kaskade,kaskade,0.76384,200,"[u'Kaskade', u'Maya Jane Coles', u'Anna Kendrick', u'Big Daddy Weave', u'Ariana Grande']","[ -2.22044605e-16   7.14631041e-01   7.21007191e-01   7.22716620e-01
+   7.27407225e-01]"
+224,Cut Copy,cutcopy,0.763511,200,"[u'Cut Copy', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Selena Gomez']","[ -2.22044605e-16   4.25476294e-01   4.37163216e-01   4.60930816e-01
+   4.69242203e-01]"
+225,Hardwell,HARDWELL,0.763354,200,"[u'Hardwell', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave', u'Massive Attack']","[ -2.22044605e-16   6.39673092e-01   6.53561262e-01   6.59617372e-01
+   6.66118435e-01]"
+226,Atif Aslam,itsaadee,0.763296,51,"[u'Atif Aslam', u'Lata Mangeshkar', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   6.84503094e-01   7.02117480e-01   7.03541567e-01
+   7.08765870e-01]"
+227,The Head and the Heart,headandtheheart,0.763078,197,"[u'The Head and the Heart', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Katie Melua']","[ -2.22044605e-16   6.17254925e-01   6.19552640e-01   6.44207931e-01
+   6.47501025e-01]"
+228,Dream Theater,dreamtheaternet,0.763021,200,"[u'Dream Theater', u'Massive Attack', u'Selena Gomez', u'Lou Reed', u'Mumford and Sons']","[ -2.22044605e-16   5.75300067e-01   5.77979828e-01   6.11070245e-01
+   6.21207886e-01]"
+229,Goo Goo Dolls,googoodolls,0.762983,199,"[u'Goo Goo Dolls', u'Big Daddy Weave', u'Selena Gomez', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   6.02325324e-01   6.16139395e-01   6.16830315e-01
+   6.16907769e-01]"
+230,Ke$ha,keshasuxx,0.762521,200,"[u'Ke$ha', u'Pitbull', u'Selena Gomez', u'Massive Attack', u'Lykke Li']","[ -2.22044605e-16   4.61580234e-01   6.56178207e-01   6.81202112e-01
+   6.87493274e-01]"
+231,Willie Nelson,willienelson,0.762332,200,"[u'Willie Nelson', u'Mumford and Sons', u'Big Daddy Weave', u'Maya Jane Coles', u'Selena Gomez']",[ 0.          0.60892387  0.62389998  0.62633161  0.62683257]
+232,Toby Keith,TobyKeithMusic,0.76163,197,"[u'Toby Keith', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Florida Georgia Line']",[ 0.          0.80228464  0.80407323  0.80983907  0.81163237]
+233,Ms Mr,msmrsounds,0.760627,200,"[u'Ms Mr', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.47558671  0.48034815  0.51742966  0.53313415]
+234,Amy Winehouse,amywinehouse,0.760555,145,"[u'Amy Winehouse', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'System of a Down']","[ -2.22044605e-16   7.34818098e-01   7.45559107e-01   7.47351382e-01
+   7.48879642e-01]"
+235,Booka Shade,BookaShade,0.760102,198,"[u'Booka Shade', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack', u'Boy & Bear']",[ 0.          0.42046895  0.42221245  0.42245188  0.4253244 ]
+236,Andrea Bocelli,bocelliandrea,0.759782,200,"[u'Andrea Bocelli', u'Massive Attack', u'Selena Gomez', u'Lou Reed', u'Trina']","[ -2.22044605e-16   6.95377100e-01   6.97832056e-01   7.24696366e-01
+   7.24752175e-01]"
+237,A.R. Rahman,arrahman,0.759491,200,"[u'A.R. Rahman', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   4.85565258e-01   4.96415840e-01   5.17293050e-01
+   5.19346098e-01]"
+238,Eli Young Band,EliYoungBand,0.759131,199,"[u'Eli Young Band', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Eric Paslay']","[ -2.22044605e-16   5.85642003e-01   6.02223669e-01   6.03356744e-01
+   6.22188639e-01]"
+239,Train,train,0.758638,200,"[u'Train', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']",[ 0.          0.46911686  0.48044502  0.49516404  0.50117505]
+240,Joyce Jonathan,joycejonathan,0.758248,200,"[u'Joyce Jonathan', u'Emmanuel Moire', u'Vitaa', u'Booba', u'No te va Gustar']","[ -2.22044605e-16   4.03920759e-01   6.60394789e-01   7.27007181e-01
+   7.60721449e-01]"
+241,Gerardo Ortiz,gerardoortiznet,0.758131,200,"[u'Gerardo Ortiz', u'Noel Torres', u'No te va Gustar', u'Espinoza Paz', u'Alejandro Sanz']",[ 0.          0.62514211  0.65476135  0.66831772  0.67112385]
+242,B.o.B,bobatl,0.758025,200,"[u'B.o.B', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Big Daddy Weave']","[ -2.22044605e-16   6.96624719e-01   7.08544484e-01   7.26588743e-01
+   7.30008742e-01]"
+243,Gorillaz,gorillazband,0.757799,199,"[u'Gorillaz', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.69730008  0.69888803  0.70020843  0.71500349]
+244,K. Michelle,kmichelle,0.757628,199,"[u'K. Michelle', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Sara Bareilles']",[ 0.          0.78155057  0.7828992   0.78897282  0.79211884]
+245,Thalia,thalia,0.757595,198,"[u'Thalia', u'No te va Gustar', u'Noel Torres', u'Reik', u'Alejandro Sanz']",[ 0.          0.68342213  0.70011065  0.70178716  0.70950227]
+246,Michel Teló,micheltelo,0.757261,200,"[u'Michel Tel\xf3', u'Pitty', u'Munhoz & Mariano', u'Ivete Sangalo', u'Jo\xe3o Neto e Frederico']",[ 0.          0.64675567  0.67444733  0.68268521  0.70623137]
+247,Backstreet Boys,backstreetboys,0.757223,198,"[u'Backstreet Boys', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Ariana Grande']","[ -2.22044605e-16   7.02388879e-01   7.10070445e-01   7.13987286e-01
+   7.21707758e-01]"
+248,Grouplove,GROUPLOVE,0.756755,200,"[u'Grouplove', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Meat Loaf']",[ 0.          0.66229431  0.67455876  0.6773283   0.69372371]
+249,Alter Bridge,alterbridge,0.756586,199,"[u'Alter Bridge', u'Ariana Grande', u'Jake Bugg', u'Big Daddy Weave', u'Maya Jane Coles']","[ -2.22044605e-16   8.56325146e-01   8.57814901e-01   8.60210336e-01
+   8.60341442e-01]"
+250,Danny Brown,XDannyXBrownX,0.756213,199,"[u'Danny Brown', u'Maya Jane Coles', u'Selena Gomez', u'Mumford and Sons', u'Big Daddy Weave']",[ 0.          0.76811369  0.76907662  0.77035795  0.77155917]
+251,Tito El Bambino,Tbambino,0.755841,200,"[u'Tito El Bambino', u'Alejandro Sanz', u'Reik', u'Espinoza Paz', u'No te va Gustar']","[ -2.22044605e-16   4.57334189e-01   4.87117286e-01   4.91842971e-01
+   5.04920680e-01]"
+252,Jesse & Joy,jesseyjoy,0.755811,200,"[u'Jesse & Joy', u'Reik', u'No te va Gustar', u'Alejandro Sanz', u'La Oreja de Van Gogh']","[ -2.22044605e-16   6.06604485e-01   6.17263480e-01   6.60465490e-01
+   6.61379334e-01]"
+253,Motel,motelmx,0.755632,200,"[u'Motel', u'Reik', u'Alejandro Sanz', u'No te va Gustar', u'Marco Antonio Sol\xeds']",[ 0.          0.60228023  0.61582618  0.62512698  0.63348664]
+254,Asking Alexandria,AfuckingA,0.755371,200,"[u'Asking Alexandria', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Cut Copy']","[ -2.22044605e-16   4.72277013e-01   4.80155786e-01   5.04250872e-01
+   5.25061463e-01]"
+255,Lucy Spraggan,lspraggan,0.755109,200,"[u'Lucy Spraggan', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Ariana Grande']","[ -2.22044605e-16   5.91307440e-01   5.92518299e-01   6.04846420e-01
+   6.12454462e-01]"
+256,Martin Solveig,martinsolveig,0.754421,200,"[u'Martin Solveig', u'Dillon Francis', u'Maya Jane Coles', u'Big Daddy Weave', u'David Guetta']",[ 0.          0.64071039  0.70761206  0.7194286   0.72194134]
+257,Black Sabbath,OfficialSabbath,0.754211,200,"[u'Black Sabbath', u'Massive Attack', u'Selena Gomez', u'Tame Impala', u'Big Daddy Weave']",[ 0.          0.55753741  0.55817402  0.59681159  0.59761525]
+258,Tame Impala,tameimpala,0.753959,200,"[u'Tame Impala', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']",[ 0.          0.33782166  0.33851434  0.39706341  0.39782517]
+259,Bon Iver,boniver,0.75365,200,"[u'Bon Iver', u'Massive Attack', u'Selena Gomez', u'Mumford and Sons', u'Big Daddy Weave']",[ 0.          0.46251816  0.46406144  0.4832806   0.48380773]
+260,Eduardo Costa,eduardocosta,0.753356,200,"[u'Eduardo Costa', u'Jo\xe3o Neto e Frederico', u'Pitty', u'Ivete Sangalo', u'Munhoz & Mariano']","[ -2.22044605e-16   6.63488910e-01   6.72890887e-01   6.85987273e-01
+   7.22035730e-01]"
+261,All Time Low,AlexAllTimeLow,0.752875,200,"[u'All Time Low', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.51767217  0.5367167   0.54060061  0.57008449]
+262,Asha Bhosle,ashabhosle,0.752429,199,"[u'Asha Bhosle', u'Big Daddy Weave', u'Maya Jane Coles', u'Katie Melua', u'Boy & Bear']",[ 0.          0.65796194  0.65834046  0.67550696  0.6766751 ]
+263,Pet Shop Boys,petshopboys,0.752083,200,"[u'Pet Shop Boys', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   5.89354334e-01   5.92555888e-01   6.05992178e-01
+   6.27309106e-01]"
+264,fun.,OurNameIsFun,0.752081,200,"[u'fun.', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'Big Daddy Weave']","[ -2.22044605e-16   4.39115186e-01   4.41955962e-01   4.59265810e-01
+   4.68980118e-01]"
+265,R. Kelly,rkelly,0.751736,197,"[u'R. Kelly', u'Maya Jane Coles', u'Big Daddy Weave', u'Madcon', u'Boy & Bear']","[ -2.22044605e-16   7.30715904e-01   7.39408880e-01   7.44026407e-01
+   7.46409347e-01]"
+266,The National,The_National,0.751724,199,"[u'The National', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'The Cranberries']",[ 0.          0.60176068  0.61334108  0.61512707  0.62221826]
+267,Jimi Hendrix,JimiHendrix,0.750654,200,"[u'Jimi Hendrix', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'The Beatles']","[ -2.22044605e-16   8.46027889e-01   8.49811387e-01   8.53006717e-01
+   8.54563066e-01]"
+268,MAN WITH A MISSION,mwamjapan,0.750634,200,"[u'MAN WITH A MISSION', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']",[ 0.          0.83742377  0.84007292  0.84840457  0.85214296]
+269,David Nail,davidnail,0.750615,200,"[u'David Nail', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']","[ -2.22044605e-16   6.65998326e-01   6.84923276e-01   6.85842178e-01
+   6.89438073e-01]"
+270,Fitz & The Tantrums,FitzAndTantrums,0.750443,200,"[u'Fitz & The Tantrums', u'Capital Cities', u'Big Daddy Weave', u'Maya Jane Coles', u'Selena Gomez']","[ -2.22044605e-16   2.42613080e-01   5.80988591e-01   5.91690201e-01
+   5.94887713e-01]"
+271,Rush,rushtheband,0.750214,200,"[u'Rush', u'Massive Attack', u'Selena Gomez', u'Lou Reed', u'Tame Impala']","[ -2.22044605e-16   4.74376695e-01   4.78819963e-01   5.13445106e-01
+   5.26222527e-01]"
+272,Nelly Furtado,NellyFurtado,0.750133,199,"[u'Nelly Furtado', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   7.08095093e-01   7.12992711e-01   7.24419551e-01
+   7.36243680e-01]"
+273,French Montana,FrencHMonTanA,0.749726,199,"[u'French Montana', u'Meek Mill', u'Selena Gomez', u'Massive Attack', u'Trina']","[ -2.22044605e-16   6.01340249e-01   6.32447287e-01   6.51428065e-01
+   6.66315300e-01]"
+274,Meek Mill,MeekMill,0.749237,200,"[u'Meek Mill', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   5.55621833e-01   5.65564919e-01   5.89646187e-01
+   5.99754191e-01]"
+275,Austin Mahone,AustinMahone,0.749229,199,"[u'Austin Mahone', u'Maya Jane Coles', u'Ariana Grande', u'Big Daddy Weave', u'Sara Bareilles']","[ -2.22044605e-16   8.29846075e-01   8.32835249e-01   8.33670645e-01
+   8.39004565e-01]"
+276,Rick Ross,rickyrozay,0.749217,200,"[u'Rick Ross', u'Meek Mill', u'Selena Gomez', u'French Montana', u'Massive Attack']",[ 0.          0.6450535   0.68691414  0.68696001  0.6941981 ]
+277,Lynyrd Skynyrd,Skynyrd,0.748813,200,"[u'Lynyrd Skynyrd', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Meat Loaf']","[ -2.22044605e-16   6.89514141e-01   7.00799732e-01   7.06588518e-01
+   7.25566768e-01]"
+278,Abel Pintos,AbelPintos,0.748786,200,"[u'Abel Pintos', u'No te va Gustar', u'La Oreja de Van Gogh', u'Alejandro Sanz', u'Reik']","[ -2.22044605e-16   4.49497501e-01   4.56682558e-01   4.76302822e-01
+   4.90033010e-01]"
+279,Travie McCoy,TravieMcCoy,0.748681,200,"[u'Travie McCoy', u'Jason Mraz', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack']",[ 0.          0.45433384  0.50763733  0.51085617  0.5206494 ]
+280,Death Cab for Cutie,dcfc,0.748615,199,"[u'Death Cab for Cutie', u'Big Daddy Weave', u'Mumford and Sons', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   5.88624453e-01   5.91886211e-01   5.97715375e-01
+   6.02492654e-01]"
+281,Gotye,gotye,0.748411,200,"[u'Gotye', u'Massive Attack', u'Selena Gomez', u'Boy & Bear', u'Maya Jane Coles']",[ 0.          0.53688306  0.5451867   0.54617943  0.54979566]
+282,Barbra Streisand,BarbraStreisand,0.748086,200,"[u'Barbra Streisand', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   6.85489343e-01   6.88966824e-01   6.94300733e-01
+   7.06098237e-01]"
+283,Dan Bălan,danbalan1,0.748042,200,"[u'Dan B\u0103lan', u'Massive Attack', u'Selena Gomez', u'Lou Reed', u'Trina']",[ 0.          0.55290599  0.56191593  0.60615678  0.60638243]
+284,The Naked And Famous,TNAF,0.747795,200,"[u'The Naked And Famous', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Meat Loaf']",[ 0.          0.58902264  0.5947009   0.60725576  0.62920247]
+285,Akon,Akon,0.747777,200,"[u'Akon', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lykke Li']",[ 0.          0.3933417   0.40777871  0.45782692  0.45896758]
+286,Eric Church,ericchurch,0.747465,200,"[u'Eric Church', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   5.10765962e-01   5.17011437e-01   5.26650721e-01
+   5.45878993e-01]"
+287,Red Foo,RedFoo,0.747221,200,"[u'Red Foo', u'LMFAO', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande']",[ 0.          0.27900908  0.7338493   0.74094651  0.74167143]
+288,Sebastian Ingrosso,SebIngrosso,0.747027,198,"[u'Sebastian Ingrosso', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Trina']","[ -2.22044605e-16   7.67015806e-01   7.73778527e-01   7.77183413e-01
+   7.88652279e-01]"
+289,Timomatic,Timomatictheone,0.747001,199,"[u'Timomatic', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']","[ -2.22044605e-16   7.00577189e-01   7.02582218e-01   7.10844594e-01
+   7.21938230e-01]"
+290,Espinoza Paz,EspinozaOficial,0.746514,200,"[u'Espinoza Paz', u'Alejandro Sanz', u'Reik', u'Noel Torres', u'Tito El Bambino']","[ -2.22044605e-16   4.22972027e-01   4.51850528e-01   4.91465682e-01
+   4.91842971e-01]"
+291,NxZero,nxzerooficial,0.745777,200,"[u'NxZero', u'Luan Santana', u'CPM 22', u'Capital Inicial', u'Selena Gomez']","[ -2.22044605e-16   6.74329364e-01   6.87597794e-01   7.04341960e-01
+   7.09043979e-01]"
+292,Sevyn Streeter,sevyn_streeter,0.745698,15,"[u'Sevyn Streeter', u'Chris Brown', u'Selena Gomez', u'Massive Attack', u'Trina']","[ -2.22044605e-16   6.96982782e-01   7.94869660e-01   8.03581775e-01
+   8.18530794e-01]"
+293,Sheryl Crow,SherylCrow,0.744863,199,"[u'Sheryl Crow', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Selena Gomez']",[ 0.          0.61984158  0.61991926  0.64002976  0.64007695]
+294,Roberto Tapia,roberto__tapia,0.744862,199,"[u'Roberto Tapia', u'Noel Torres', u'Alejandro Sanz', u'Reik', u'Mal\xfa']","[ -2.22044605e-16   4.88207143e-01   5.33211408e-01   5.43855960e-01
+   5.55055635e-01]"
+295,Pentatonix,PTXofficial,0.744222,200,"[u'Pentatonix', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Sara Bareilles']",[ 0.          0.59267763  0.59564951  0.61582678  0.62996645]
+296,Rod Stewart,rodstewart,0.743974,200,"[u'Rod Stewart', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   6.86473598e-01   6.87123354e-01   6.93608895e-01
+   7.12007720e-01]"
+297,Gabrielle Aplin,GabrielleAplin,0.743836,200,"[u'Gabrielle Aplin', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Goldfrapp']","[ -2.22044605e-16   6.00553981e-01   6.03218587e-01   6.17905829e-01
+   6.29335053e-01]"
+298,Banda El Recodo,ElRecodoOficial,0.74378,200,"[u'Banda El Recodo', u'Banda Los Recoditos', u'No te va Gustar', u'Reik', u'La Oreja de Van Gogh']","[ -2.22044605e-16   3.17551335e-01   3.99269333e-01   4.30368212e-01
+   4.36428207e-01]"
+299,Chase Rice,ChaseRiceMusic,0.743759,200,"[u'Chase Rice', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']","[ -2.22044605e-16   6.95062746e-01   7.12522889e-01   7.15336465e-01
+   7.25739422e-01]"
+300,Schoolboy Q,ScHoolBoyQ,0.743713,199,"[u'Schoolboy Q', u'Kendrick Lamar', u'Macklemore', u'Mac Miller', u'Maya Jane Coles']","[ -2.22044605e-16   4.65890727e-01   7.44011690e-01   7.58767104e-01
+   7.62600851e-01]"
+301,blink-182,blink182,0.743713,200,"[u'blink-182', u'Selena Gomez', u'Massive Attack', u'Tame Impala', u'Trina']",[ 0.          0.47470939  0.48316617  0.52897956  0.5306503 ]
+302,Five Finger Death Punch,FFDP,0.743618,199,"[u'Five Finger Death Punch', u'Big Daddy Weave', u'The Beatles', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   7.75674167e-01   7.80711693e-01   7.81172049e-01
+   7.84442041e-01]"
+303,Kylie Minogue,kylieminogue,0.743375,200,"[u'Kylie Minogue', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Maya Jane Coles']","[ -2.22044605e-16   6.28246406e-01   6.40752250e-01   6.64419337e-01
+   6.66795356e-01]"
+304,The Strokes,thestrokes,0.743265,80,"[u'The Strokes', u'Arcade Fire', u'Eminem', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   6.32183972e-01   6.51841092e-01   6.58417974e-01
+   6.59995158e-01]"
+305,Jake Owen,jakeowen,0.743147,200,"[u'Jake Owen', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.65006171  0.65256836  0.67280177  0.68001628]
+306,Carrie Underwood,carrieunderwood,0.742731,200,"[u'Carrie Underwood', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Ariana Grande']","[ -2.22044605e-16   5.17823708e-01   5.19759756e-01   5.46540445e-01
+   5.52072949e-01]"
+307,The Doors,TheDoors,0.742349,199,"[u'The Doors', u'Big Daddy Weave', u'The Beatles', u'Boy & Bear', u'Maya Jane Coles']",[ 0.          0.67909592  0.6853167   0.69006244  0.69096812]
+308,Mia Martina,MiaMartina,0.742245,199,"[u'Mia Martina', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave', u'Massive Attack']","[ -2.22044605e-16   6.32868163e-01   6.37173037e-01   6.55392473e-01
+   6.55393356e-01]"
+309,Washed Out,ernestgreene,0.742224,199,"[u'Washed Out', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'The Cranberries']",[ 0.          0.65867233  0.66662508  0.67033446  0.67585534]
+310,Kenny Rogers,_KennyRogers,0.742207,200,"[u'Kenny Rogers', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   6.96480266e-01   7.01166269e-01   7.05467652e-01
+   7.12030916e-01]"
+311,Helene Fischer,_Helene_Fischer,0.741617,102,"[u'Helene Fischer', u'Max Herre', u'Marteria', u'Andrea Berg', u'The BossHoss']",[ 0.          0.58903879  0.66393863  0.67436194  0.74186361]
+312,Chris Tomlin,christomlin,0.741386,200,"[u'Chris Tomlin', u'Matt Redman', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   3.99950036e-01   4.52144324e-01   4.85832893e-01
+   5.08571275e-01]"
+313,Mayday Parade,Mayday_Parade,0.740875,199,"[u'Mayday Parade', u'Big Daddy Weave', u'Boy & Bear', u'Selena Gomez', u'Massive Attack']","[ -2.22044605e-16   5.27073537e-01   5.27241252e-01   5.35630080e-01
+   5.41882726e-01]"
+314,50 Cent,50cent,0.740538,200,"[u'50 Cent', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Trina']",[ 0.          0.75933994  0.7689615   0.78344759  0.78617011]
+315,Andrea Berg,Andrea_Berg,0.740329,95,"[u'Andrea Berg', u'Max Herre', u'Marteria', u'Helene Fischer', u'The BossHoss']","[ -2.22044605e-16   5.32191475e-01   6.40579497e-01   6.74361936e-01
+   7.47203595e-01]"
+316,Mary J. Blige,maryjblige,0.740178,200,"[u'Mary J. Blige', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear']","[ -2.22044605e-16   5.81393234e-01   5.86579653e-01   6.10516924e-01
+   6.15168965e-01]"
+317,赤西仁,Jin_Akanishi,0.740102,199,"[u'\u8d64\u897f\u4ec1', u'Jaheim', u'Anna Kendrick', u'Maya Jane Coles', u'Ariana Grande']",[ 0.          0.71352268  0.72822171  0.72824834  0.72847766]
+318,Def Leppard,def_leppard,0.739955,197,"[u'Def Leppard', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'The Beatles']","[ -2.22044605e-16   7.31242261e-01   7.32823012e-01   7.40648256e-01
+   7.50168652e-01]"
+319,Shania Twain,ShaniaTwain,0.73969,199,"[u'Shania Twain', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Meat Loaf']",[ 0.          0.54552887  0.550282    0.56770286  0.57614181]
+320,The Band Perry,thebandperry,0.739476,200,"[u'The Band Perry', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']",[ 0.          0.55366907  0.57226361  0.57699734  0.58585478]
+321,Cher Lloyd,CherLloyd,0.739445,198,"[u'Cher Lloyd', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Boy & Bear']",[ 0.          0.77635893  0.78313088  0.79224821  0.79510346]
+322,Elissa,elissakh,0.739419,200,"[u'Elissa', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lykke Li']","[ -2.22044605e-16   6.88465644e-01   7.03317913e-01   7.15378300e-01
+   7.16673179e-01]"
+323,T-Pain,TPAIN,0.738997,199,"[u'T-Pain', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Katie Melua']","[ -2.22044605e-16   7.45445457e-01   7.45533272e-01   7.54790908e-01
+   7.56568113e-01]"
+324,Booba,booba,0.738666,200,"[u'Booba', u'Selena Gomez', u'Massive Attack', u'Trina', u'Emmanuel Moire']","[ -2.22044605e-16   6.98981355e-01   7.01732507e-01   7.20639336e-01
+   7.22579574e-01]"
+325,My Chemical Romance,MCRofficial,0.738131,200,"[u'My Chemical Romance', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Maroon 5']",[ 0.          0.70776351  0.71555643  0.72034844  0.72784455]
+326,Sorriso Maroto,sorrisomaroto,0.737996,200,"[u'Sorriso Maroto', u'Luan Santana', u'Grupo Bom Gosto', u'CPM 22', u'Pitty']","[ -2.22044605e-16   6.81879771e-01   7.33849856e-01   7.42927812e-01
+   7.59030466e-01]"
+327,Ivete Sangalo,ivetesangalo,0.737807,200,"[u'Ivete Sangalo', u'Pitty', u'Jo\xe3o Neto e Frederico', u'Luan Santana', u'Munhoz & Mariano']","[ -2.22044605e-16   5.46608705e-01   5.90989085e-01   6.08938440e-01
+   6.19150421e-01]"
+328,Kid Cudi,ducidni,0.737782,198,"[u'Kid Cudi', u'Big Daddy Weave', u'Ariana Grande', u'Maya Jane Coles', u'Katie Melua']",[ 0.          0.76417944  0.7660289   0.7672891   0.76753479]
+329,Justin Moore,JustinColeMoore,0.73759,198,"[u'Justin Moore', u'Randy Houser', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   7.15191387e-01   7.43964685e-01   7.57897451e-01
+   7.59589873e-01]"
+330,Boy George,BoyGeorge,0.737052,200,"[u'Boy George', u'Big Daddy Weave', u'Maya Jane Coles', u'Katie Melua', u'Boy & Bear']",[ 0.          0.57855314  0.58391465  0.59628436  0.60467349]
+331,Daniel,cantordaniel,0.735806,200,"[u'Daniel', u'Pitty', u'Luan Santana', u'Grupo Bom Gosto', u'Ivete Sangalo']","[ -2.22044605e-16   6.75087068e-01   6.88745566e-01   6.89000380e-01
+   6.89760498e-01]"
+332,JoJo,JoJoistheway,0.735645,200,"[u'JoJo', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lykke Li']","[ -2.22044605e-16   4.37065162e-01   4.69192555e-01   4.91740476e-01
+   5.00251520e-01]"
+333,Scotty McCreery,ScottyMcCreery,0.73479,200,"[u'Scotty McCreery', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Katie Melua']",[ 0.          0.68462702  0.69306018  0.69446633  0.71212453]
+334,Katie Melua,katiemelua,0.734627,200,"[u'Katie Melua', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   4.32462786e-01   4.35258865e-01   4.47535214e-01
+   4.65608766e-01]"
+335,Rise Against,riseagainst,0.734377,200,"[u'Rise Against', u'Massive Attack', u'Selena Gomez', u'Big Daddy Weave', u'Boy & Bear']","[ -2.22044605e-16   4.59630676e-01   4.60019863e-01   4.78737945e-01
+   4.82808803e-01]"
+336,Fatboy Slim,FatboySlim,0.734265,200,"[u'Fatboy Slim', u'Calvin Harris', u'Maya Jane Coles', u'Mumford and Sons', u'Selena Gomez']",[ 0.          0.55713209  0.72650377  0.740252    0.7436754 ]
+337,James Blake,jamesblake,0.733722,200,"[u'James Blake', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   3.78177332e-01   3.81291706e-01   4.36379976e-01
+   4.41905468e-01]"
+338,Pixies,PIXIES,0.733649,200,"[u'Pixies', u'The Cranberries', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons']","[ -2.22044605e-16   7.12301590e-01   7.13708908e-01   7.14371637e-01
+   7.18693928e-01]"
+339,Nicky Romero,nickyromero,0.733359,200,"[u'Nicky Romero', u'Zedd', u'David Guetta', u'Maya Jane Coles', u'Selena Gomez']",[ 0.          0.56374002  0.64182186  0.64301134  0.65243229]
+340,Daughter,ohdaughter,0.733268,200,"[u'Daughter', u'Mumford and Sons', u'Boy & Bear', u'Maya Jane Coles', u'The Cranberries']","[ -2.22044605e-16   7.30257454e-01   7.42734347e-01   7.44353802e-01
+   7.47438139e-01]"
+341,Axwell,Axwell,0.732745,197,"[u'Axwell', u'Selena Gomez', u'Massive Attack', u'Swedish House Mafia', u'Trina']","[ -2.22044605e-16   8.20687319e-01   8.26292842e-01   8.35452158e-01
+   8.38633029e-01]"
+342,Goldfrapp,goldfrapp,0.732607,200,"[u'Goldfrapp', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Katie Melua']",[ 0.          0.4434967   0.46191129  0.47206948  0.48071866]
+343,Iron Maiden,IronMaiden,0.73232,200,"[u'Iron Maiden', u'Selena Gomez', u'Mumford and Sons', u'Stone Temple Pilots', u'The Cranberries']","[ -2.22044605e-16   5.46799887e-01   5.52852622e-01   5.55425493e-01
+   5.55634101e-01]"
+344,The Civil Wars,thecivilwars,0.732288,200,"[u'The Civil Wars', u'The Beatles', u'Mumford and Sons', u'Maya Jane Coles', u'Boy & Bear']",[ 0.          0.69442758  0.69567247  0.69972031  0.70039682]
+345,Yann Tiersen,yanntiersen,0.73221,198,"[u'Yann Tiersen', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   6.10421685e-01   6.15118891e-01   6.24765069e-01
+   6.52883169e-01]"
+346,Il Volo,ilvolo,0.73172,200,"[u'Il Volo', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Cut Copy']","[ -2.22044605e-16   7.65026914e-01   7.75258661e-01   7.78173209e-01
+   7.88946644e-01]"
+347,Stone Temple Pilots,STPBand,0.731581,200,"[u'Stone Temple Pilots', u'Massive Attack', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear']",[ 0.          0.510761    0.51158516  0.51194843  0.5128587 ]
+348,Banks,hernameisbanks,0.731434,198,"[u'Banks', u'The Weeknd', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave']",[ 0.          0.72506022  0.74134439  0.74533042  0.74959975]
+349,Edward Sharpe & the Magnetic Zeros,EdwardSharpe,0.730901,199,"[u'Edward Sharpe & the Magnetic Zeros', u'Mumford and Sons', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   6.00985440e-01   6.70065460e-01   6.79596504e-01
+   6.88266793e-01]"
+350,Massive Attack,MassiveAttackUK,0.730614,200,"[u'Massive Attack', u'Selena Gomez', u'Lou Reed', u'Trina', u'Lykke Li']",[ 0.          0.23934935  0.30467068  0.31574021  0.33527867]
+351,The Offspring,offspring,0.730467,199,"[u'The Offspring', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Meat Loaf']","[ -2.22044605e-16   6.32291624e-01   6.37212532e-01   6.47672652e-01
+   6.66112053e-01]"
+352,Aerosmith,Aerosmith,0.730432,200,"[u'Aerosmith', u'Big Daddy Weave', u'Mumford and Sons', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   5.87004091e-01   5.94206597e-01   5.95703315e-01
+   5.98586528e-01]"
+353,Casting Crowns,castingcrowns,0.730421,200,"[u'Casting Crowns', u'Big Daddy Weave', u'Passion Pit', u'Seal', u'Cassadee Pope']","[ -2.22044605e-16   8.32754481e-01   8.40567355e-01   8.41790840e-01
+   8.49038856e-01]"
+354,Craig Campbell,craigcampbelltv,0.730099,200,"[u'Craig Campbell', u'Maya Jane Coles', u'Big Daddy Weave', u'Katie Melua', u'Boy & Bear']","[ -2.22044605e-16   6.15803194e-01   6.23279051e-01   6.40616438e-01
+   6.41456204e-01]"
+355,New Politics,NewPolitics,0.730082,200,"[u'New Politics', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'P!nk']","[ -2.22044605e-16   5.69628693e-01   5.79738058e-01   5.97665161e-01
+   6.18383304e-01]"
+356,Trey Songz,TreySongz,0.729845,198,"[u'Trey Songz', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Sara Bareilles']","[ -2.22044605e-16   7.42688965e-01   7.45386242e-01   7.51227391e-01
+   7.58215161e-01]"
+357,Psy 4 de la Rime,PSY4OFFICIEL,0.729826,200,"[u'Psy 4 de la Rime', u'Emmanuel Moire', u'Joyce Jonathan', u'Vitaa', u'Booba']","[ -2.22044605e-16   8.22672418e-01   8.34287090e-01   8.85691180e-01
+   9.05875007e-01]"
+358,Bliss n Eso,blissneso,0.729493,200,"[u'Bliss n Eso', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Selena Gomez']","[ -2.22044605e-16   5.74848085e-01   5.80207702e-01   5.95195637e-01
+   5.95454905e-01]"
+359,Editors,editorsofficial,0.729299,199,"[u'Editors', u'Mumford and Sons', u'Big Daddy Weave', u'The Cranberries', u'Maya Jane Coles']",[ 0.          0.53394235  0.54563305  0.54824851  0.54840414]
+360,Mac Miller,MacMiller,0.729254,200,"[u'Mac Miller', u'Big Daddy Weave', u'Tyler, The Creator', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   6.05363138e-01   6.11006062e-01   6.11035797e-01
+   6.20082084e-01]"
+361,Duke Dumont,DukeDumont,0.729114,199,"[u'Duke Dumont', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Goldfrapp']",[ 0.          0.59251475  0.62221683  0.62725824  0.63260991]
+362,The Strypes,The_Strypes,0.728725,198,"[u'The Strypes', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   4.51862804e-01   4.60243973e-01   4.66163320e-01
+   4.91061492e-01]"
+363,Guy Sebastian,GuySebastian,0.728014,200,"[u'Guy Sebastian', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']","[ -2.22044605e-16   5.00187478e-01   5.08176270e-01   5.12831962e-01
+   5.52670570e-01]"
+364,Parov Stelar,parov_stelar,0.727945,200,"[u'Parov Stelar', u'Maya Jane Coles', u'Boy & Bear', u'Big Daddy Weave', u'Katie Melua']",[ 0.          0.40253669  0.40622653  0.40814174  0.46560877]
+365,Anna Kendrick,AnnaKendrick47,0.72771,200,"[u'Anna Kendrick', u'Passion Pit', u'Seal', u'Big Daddy Weave', u'Ariana Grande']","[ -2.22044605e-16   5.35576919e-01   5.43667727e-01   5.44413946e-01
+   5.48720517e-01]"
+366,The Smashing Pumpkins,SmashingPumpkin,0.727335,200,"[u'The Smashing Pumpkins', u'Big Daddy Weave', u'The Beatles', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   6.29516482e-01   6.40796334e-01   6.43002763e-01
+   6.43593585e-01]"
+367,Bruce Springsteen,springsteen,0.726944,199,"[u'Bruce Springsteen', u'Mumford and Sons', u'Massive Attack', u'Selena Gomez', u'The Cranberries']","[ -2.22044605e-16   5.48621366e-01   5.63700526e-01   5.69428167e-01
+   5.74646891e-01]"
+368,Emis Killa,RealEmisKilla,0.726904,200,"[u'Emis Killa', u'Vasco Rossi', u'Eros Ramazzotti', u'Massive Attack', u'Selena Gomez']",[ 0.          0.72443435  0.87365206  0.90718377  0.91196358]
+369,BoA,BoAkwon,0.72668,200,"[u'BoA', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   7.76109919e-01   7.82512787e-01   7.95661545e-01
+   8.00785413e-01]"
+370,Passion Pit,passionpit,0.726595,200,"[u'Passion Pit', u'Anna Kendrick', u'Big Daddy Weave', u'Boy & Bear', u'Seal']","[ -2.22044605e-16   5.35576919e-01   5.41548944e-01   5.44141355e-01
+   5.56733411e-01]"
+371,Metric,Metric,0.726294,200,"[u'Metric', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Meat Loaf']",[ 0.          0.4487833   0.46404695  0.47399525  0.51021792]
+372,Moderat,ModeratOfficial,0.725854,199,"[u'Moderat', u'Selena Gomez', u'Massive Attack', u'Booka Shade', u'Tame Impala']",[ 0.          0.77323855  0.77696897  0.78936338  0.79294536]
+373,DK,TheRealD_K,0.72539,200,"[u'DK', u'Ariana Grande', u'Eminem', u'Anna Kendrick', u'P!nk']","[ -2.22044605e-16   8.23343930e-01   8.23927022e-01   8.27096128e-01
+   8.29549852e-01]"
+374,Boy & Bear,boyandbear,0.725269,200,"[u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Parov Stelar', u'Meat Loaf']",[ 0.          0.332927    0.37887007  0.40622653  0.41775118]
+375,Maher Zain,MaherZain,0.725141,200,"[u'Maher Zain', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.71693695  0.73284202  0.73493975  0.74708044]
+376,Kiss,KISSOnline,0.724876,200,"[u'Kiss', u'Selena Gomez', u'The Weeknd', u'Massive Attack', u'Lou Reed']","[ -2.22044605e-16   6.74912526e-01   6.78145211e-01   6.78962241e-01
+   7.04670411e-01]"
+377,Anna Calvi,annacalvi,0.724743,200,"[u'Anna Calvi', u'Mumford and Sons', u'Maya Jane Coles', u'Massive Attack', u'Selena Gomez']",[ 0.          0.73761229  0.73959651  0.74235093  0.74270972]
+378,Max Herre,MaxHerreMusik,0.724397,200,"[u'Max Herre', u'Andrea Berg', u'Marteria', u'Helene Fischer', u'Fettes Brot']","[ -2.22044605e-16   5.32191475e-01   5.32245782e-01   5.89038790e-01
+   6.62264627e-01]"
+379,DJ Shadow,djshadow,0.724093,200,"[u'DJ Shadow', u'Maya Jane Coles', u'Big Daddy Weave', u'Katie Melua', u'Boy & Bear']",[ 0.          0.59373918  0.61006367  0.61529907  0.62047337]
+380,Nicolas Jaar,nicolas___jaar,0.724088,23,"[u'Nicolas Jaar', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.7648663   0.76610145  0.76676384  0.78321244]
+381,Capital Inicial,capitalinicial,0.723796,199,"[u'Capital Inicial', u'Pitty', u'Luan Santana', u'Grupo Bom Gosto', u'Munhoz & Mariano']","[ -2.22044605e-16   6.26355443e-01   6.26478966e-01   6.43963791e-01
+   6.44233795e-01]"
+382,Chenoa,Chenoaoficial,0.723569,200,"[u'Chenoa', u'Mal\xfa', u'No te va Gustar', u'Alejandro Sanz', u'Noel Torres']","[ -2.22044605e-16   5.62755563e-01   5.64250073e-01   5.83349386e-01
+   5.92347694e-01]"
+383,Marilyn Manson,marilynmanson,0.723378,198,"[u'Marilyn Manson', u'Selena Gomez', u'Massive Attack', u'The Cranberries', u'Mumford and Sons']",[ 0.          0.46275547  0.46644278  0.50331436  0.50754395]
+384,Bob Sinclar,bobsinclar,0.72328,199,"[u'Bob Sinclar', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack', u'David Guetta']",[ 0.          0.67528645  0.67841958  0.68549665  0.68891484]
+385,Hillsong United,hillsongunited,0.72323,199,"[u'Hillsong United', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']",[ 0.          0.72847789  0.74506513  0.74595113  0.74983524]
+386,Il Divo,ildivoofficial,0.723081,200,"[u'Il Divo', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.60729632  0.61420992  0.62788316  0.64698137]
+387,Blur,blurofficial,0.722115,200,"[u'Blur', u'Maya Jane Coles', u'Big Daddy Weave', u'Selena Gomez', u'Mumford and Sons']",[ 0.          0.58217331  0.58654779  0.58774048  0.59260943]
+388,Rohff,rohff,0.721857,192,"[u'Rohff', u'Joyce Jonathan', u'Emmanuel Moire', u'Selena Gomez', u'Booba']","[ -2.22044605e-16   7.94587630e-01   7.96429280e-01   8.25324802e-01
+   8.26497334e-01]"
+389,Ne-Yo,NeYoCompound,0.721441,200,"[u'Ne-Yo', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack', u'Big Daddy Weave']","[ -2.22044605e-16   5.27274076e-01   5.34419155e-01   5.49325766e-01
+   5.50736011e-01]"
+390,Iván Ferreiro,ivanferreiro,0.721398,200,"[u'Iv\xe1n Ferreiro', u'No te va Gustar', u'Reik', u'Dani Mart\xedn', u'La Oreja de Van Gogh']","[ -2.22044605e-16   4.77673617e-01   5.13837745e-01   5.16825160e-01
+   5.17338966e-01]"
+391,Marteria,marteria,0.721392,199,"[u'Marteria', u'Max Herre', u'Andrea Berg', u'Helene Fischer', u'Fettes Brot']",[ 0.          0.53224578  0.6405795   0.66393863  0.68774726]
+392,Sander van Doorn,SandervanDoorn,0.721378,200,"[u'Sander van Doorn', u'Maya Jane Coles', u'Big Daddy Weave', u'Jake Bugg', u'Passenger']",[ 0.          0.57389587  0.59772613  0.62078477  0.62374958]
+393,Matthew West,matthew_west,0.720921,200,"[u'Matthew West', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Sidewalk Prophets']","[ -2.22044605e-16   5.64102503e-01   6.00220029e-01   6.03840866e-01
+   6.29715129e-01]"
+394,Richard Clayderman,claydermanmusic,0.72082,60,"[u'Richard Clayderman', u'Boy & Bear', u'Maya Jane Coles', u'Big Daddy Weave', u'Parov Stelar']","[ -2.22044605e-16   7.24420760e-01   7.40053210e-01   7.41853282e-01
+   7.55970461e-01]"
+395,Matt Redman,matt_redman,0.720754,200,"[u'Matt Redman', u'Chris Tomlin', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   3.99950036e-01   4.22094786e-01   4.77539871e-01
+   4.89027062e-01]"
+396,Gramatik,Gramatik,0.720698,199,"[u'Gramatik', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.64727123  0.65249147  0.66451202  0.66934133]
+397,Los Campesinos!,loscampesinos,0.720602,200,"[u'Los Campesinos!', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Katie Melua']",[ 0.          0.5790419   0.58672479  0.60391446  0.62045225]
+398,Joris Voorn,jorisvoorn,0.720094,200,"[u'Joris Voorn', u'The Beatles', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack']",[ 0.          0.69044843  0.69146596  0.6965946   0.69907957]
+399,Jimmy Buffett,jimmybuffett,0.719905,200,"[u'Jimmy Buffett', u'Mumford and Sons', u'Big Daddy Weave', u'The Cranberries', u'Maya Jane Coles']","[ -2.22044605e-16   6.53765292e-01   6.59361612e-01   6.59384041e-01
+   6.65426554e-01]"
+400,No te va Gustar,ntvgoficial,0.719796,199,"[u'No te va Gustar', u'Reik', u'Mal\xfa', u'La Oreja de Van Gogh', u'Banda Los Recoditos']",[ 0.          0.35381416  0.37845505  0.38381647  0.39168891]
+401,John Fogerty,John_Fogerty,0.718912,200,"[u'John Fogerty', u'Big Daddy Weave', u'Maya Jane Coles', u'Mumford and Sons', u'Boy & Bear']","[ -2.22044605e-16   5.66038801e-01   5.77167690e-01   5.80907417e-01
+   5.93723578e-01]"
+402,Eliza Doolittle,elizadoolittle,0.71874,199,"[u'Eliza Doolittle', u'Katie Melua', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear']",[ 0.          0.64351885  0.64361271  0.65379106  0.66479061]
+403,Yeah Yeah Yeahs,YYYs,0.718191,193,"[u'Yeah Yeah Yeahs', u'Selena Gomez', u'Massive Attack', u'Tame Impala', u'Trina']","[ -2.22044605e-16   7.48871288e-01   7.56251610e-01   7.72298789e-01
+   7.72627041e-01]"
+404,Victoria Justice,VictoriaJustice,0.718115,200,"[u'Victoria Justice', u'Carly Rae Jepsen', u'Ariana Grande', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.56617967  0.60802166  0.61235044  0.61835353]
+405,Trina,TRINArockstarr,0.717826,200,"[u'Trina', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Lykke Li']",[ 0.          0.29353929  0.31574021  0.3771324   0.39116486]
+406,Nick Cave & The Bad Seeds,ncandtbs,0.717704,200,"[u'Nick Cave & The Bad Seeds', u'Mumford and Sons', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']",[ 0.          0.68048558  0.6806147   0.68411995  0.68602717]
+407,Umek,UMEK_1605,0.717414,199,"[u'Umek', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack', u'Big Daddy Weave']",[ 0.          0.54025315  0.5489586   0.55170527  0.57902455]
+408,Gloria Estefan,GloriaEstefan,0.716698,200,"[u'Gloria Estefan', u'Ariana Grande', u'Big Daddy Weave', u'Anna Kendrick', u'Sara Bareilles']","[ -2.22044605e-16   7.71528139e-01   7.75255329e-01   7.76924633e-01
+   7.82396249e-01]"
+409,Нюша,Nyusha_Nyusha,0.716463,199,"[u'\u041d\u044e\u0448\u0430', u'Dima Bilan', u'Selena Gomez', u'Massive Attack', u'Trina']","[ -2.22044605e-16   5.19748792e-01   8.73710615e-01   8.76083862e-01
+   8.81201678e-01]"
+410,Slipknot,slipknot,0.716313,196,"[u'Slipknot', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']",[ 0.          0.70545281  0.70582608  0.72953439  0.73614136]
+411,Blue,officialblue,0.716312,199,"[u'Blue', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande', u'Katie Melua']",[ 0.          0.81896122  0.82049293  0.82155966  0.82277312]
+412,Los Inquietos del Norte,inquietosapp,0.716116,200,"[u'Los Inquietos del Norte', u'No te va Gustar', u'Noel Torres', u'Banda Los Recoditos', u'Banda El Recodo']",[ 0.          0.48535525  0.52198584  0.52842983  0.53624077]
+413,João Neto e Frederico,JNeFoficial,0.716042,200,"[u'Jo\xe3o Neto e Frederico', u'Pitty', u'Ivete Sangalo', u'Luan Santana', u'Gusttavo Lima']","[ -2.22044605e-16   5.15096694e-01   5.90989085e-01   6.16272352e-01
+   6.34383593e-01]"
+414,Amos Lee,amoslee,0.715664,200,"[u'Amos Lee', u'The Cranberries', u'Big Daddy Weave', u'Mumford and Sons', u'Boy & Bear']","[ -2.22044605e-16   6.58600377e-01   6.62524269e-01   6.64046237e-01
+   6.65102580e-01]"
+415,Samo,SAMOALLSTAR,0.715626,200,"[u'Samo', u'Alejandro Sanz', u'Reik', u'Dani Mart\xedn', u'La Oreja de Van Gogh']","[ -2.22044605e-16   4.94398640e-01   4.95012444e-01   5.27577909e-01
+   5.29370315e-01]"
+416,Love Of Lesbian,loveoflesbian,0.715493,198,"[u'Love Of Lesbian', u'No te va Gustar', u'Reik', u'La Oreja de Van Gogh', u'Alejandro Sanz']",[ 0.          0.55227473  0.6026672   0.61848702  0.62162156]
+417,Imran Khan,Imrankhanworld,0.715328,195,"[u'Imran Khan', u'P!nk', u'Lorde', u'Ariana Grande', u'Katie Melua']","[ -2.22044605e-16   9.02933886e-01   9.07610380e-01   9.08128089e-01
+   9.08283486e-01]"
+418,Tori Kelly,ToriKelly,0.715102,199,"[u'Tori Kelly', u'Maya Jane Coles', u'Big Daddy Weave', u'Ed Sheeran', u'Ariana Grande']",[ 0.          0.59539132  0.60043997  0.60899927  0.61384025]
+419,Journey,JourneyOfficial,0.715048,200,"[u'Journey', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   4.58299732e-01   4.73477246e-01   4.97339488e-01
+   5.05149151e-01]"
+420,Atlas Genius,atlasgenius,0.714915,200,"[u'Atlas Genius', u'Family of the Year', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']","[ -2.22044605e-16   4.16485353e-01   6.72303925e-01   6.81549065e-01
+   6.81762290e-01]"
+421,Meat Loaf,RealMeatLoaf,0.714903,199,"[u'Meat Loaf', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Selena Gomez']","[ -2.22044605e-16   3.93925013e-01   4.17751180e-01   4.25562029e-01
+   4.57920697e-01]"
+422,Tommy Trash,djtommytrash,0.714431,200,"[u'Tommy Trash', u'Sub Focus', u'Maya Jane Coles', u'Empire of the Sun', u'Big Daddy Weave']",[ 0.          0.84006334  0.84888261  0.8548121   0.85485953]
+423,Sergio Contreras,Sergi0Contreras,0.714228,198,"[u'Sergio Contreras', u'No te va Gustar', u'Reik', u'Alejandro Sanz', u'Mal\xfa']","[ -2.22044605e-16   4.91658455e-01   5.21738087e-01   5.22836139e-01
+   5.25087067e-01]"
+424,Jaheim,officialjaheim,0.713463,199,"[u'Jaheim', u'Anna Kendrick', u'Big Daddy Weave', u'Maya Jane Coles', u'Katie Melua']","[ -2.22044605e-16   5.91367167e-01   6.05762888e-01   6.13274730e-01
+   6.13989612e-01]"
+425,Randy Houser,RandyHouser,0.713273,199,"[u'Randy Houser', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Cassadee Pope']",[ 0.          0.69026874  0.69067146  0.70252932  0.70694838]
+426,Gucci Mane,gucci1017,0.713146,193,"[u'Gucci Mane', u'P!nk', u'Tyler, The Creator', u'Nicki Minaj', u'Lorde']",[ 0.          0.87568877  0.87642138  0.87825035  0.88187678]
+427,Babyshambles,babyshamblesuk,0.71307,196,"[u'Babyshambles', u'Selena Gomez', u'Massive Attack', u'Mumford and Sons', u'Maya Jane Coles']","[ -2.22044605e-16   7.31556656e-01   7.36316395e-01   7.50769021e-01
+   7.54776144e-01]"
+428,Newsboys,newsboys,0.712972,200,"[u'Newsboys', u'Big Daddy Weave', u'for King & Country', u'Selena Gomez', u'Massive Attack']","[ -2.22044605e-16   5.87727314e-01   5.94253236e-01   6.20097047e-01
+   6.23790835e-01]"
+429,Big Daddy Weave,bdwmusic,0.712968,200,"[u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Meat Loaf', u'Parov Stelar']",[ 0.          0.332927    0.36169489  0.39392501  0.40814174]
+430,Crystal Fighters,crystalfighters,0.712933,200,"[u'Crystal Fighters', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Booka Shade']",[ 0.          0.5457459   0.54610423  0.54997424  0.57421272]
+431,Maya Jane Coles,mjcofficial,0.712531,189,"[u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Sub Focus', u'Parov Stelar']",[ 0.          0.36169489  0.37887007  0.39181713  0.40253669]
+432,Sigur Rós,sigurros,0.712371,200,"[u'Sigur R\xf3s', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']",[ 0.          0.66877601  0.66947474  0.697756    0.70212258]
+433,Alex Clare,alexanderclare,0.712197,200,"[u'Alex Clare', u'Sub Focus', u'Maya Jane Coles', u'Katie Melua', u'Big Daddy Weave']","[ -2.22044605e-16   5.98351270e-01   6.32926346e-01   6.38308118e-01
+   6.38423234e-01]"
+434,The Who,TheWho,0.711664,198,"[u'The Who', u'Big Daddy Weave', u'Maya Jane Coles', u'Mumford and Sons', u'Boy & Bear']","[ -2.22044605e-16   7.26963472e-01   7.28915903e-01   7.34939824e-01
+   7.35481912e-01]"
+435,Luis Enrique,LuisEnrique,0.711295,200,"[u'Luis Enrique', u'Alejandro Sanz', u'Reik', u'No te va Gustar', u'La Oreja de Van Gogh']","[ -2.22044605e-16   6.81484446e-01   6.90456870e-01   6.91945384e-01
+   6.99403794e-01]"
+436,The Kooks,thekooksmusic,0.711279,199,"[u'The Kooks', u'Selena Gomez', u'Massive Attack', u'Big Daddy Weave', u'Boy & Bear']",[ 0.          0.56723232  0.57701769  0.58870483  0.59256798]
+437,Snow Patrol,SnowPatrolBand,0.711035,200,"[u'Snow Patrol', u'Boy & Bear', u'Maya Jane Coles', u'Big Daddy Weave', u'Mumford and Sons']",[ 0.          0.58941402  0.59578619  0.59701088  0.6173035 ]
+438,Building 429,building429,0.710865,199,"[u'Building 429', u'Hawk Nelson', u'Big Daddy Weave', u'Selena Gomez', u'Maya Jane Coles']",[ 0.          0.51819503  0.75923835  0.77144816  0.77601892]
+439,Larry Hernandez,larryhernandez1,0.710738,200,"[u'Larry Hernandez', u'Espinoza Paz', u'Alejandro Sanz', u'Noel Torres', u'Reik']",[ 0.          0.49964607  0.50736841  0.52902602  0.53696794]
+440,Rammstein,RSprachrohr,0.710718,86,"[u'Rammstein', u'Selena Gomez', u'Massive Attack', u'Big Daddy Weave', u'The Cranberries']",[ 0.          0.78912854  0.79026425  0.79451351  0.79517818]
+441,The Cranberries,The_Cranberries,0.710692,199,"[u'The Cranberries', u'Massive Attack', u'Selena Gomez', u'Mumford and Sons', u'Boy & Bear']","[ -2.22044605e-16   3.90723511e-01   3.92683092e-01   4.22928992e-01
+   4.38229032e-01]"
+442,Crystal Castles,CRYSTALCASTLESS,0.710411,37,"[u'Crystal Castles', u'Massive Attack', u'Selena Gomez', u'Tame Impala', u'Trina']","[ -2.22044605e-16   7.28236179e-01   7.44503782e-01   7.61122876e-01
+   7.64117010e-01]"
+443,Pitty,pittyleone,0.710329,200,"[u'Pitty', u'Jo\xe3o Neto e Frederico', u'Munhoz & Mariano', u'Ivete Sangalo', u'Grupo Bom Gosto']","[ -2.22044605e-16   5.15096694e-01   5.45242309e-01   5.46608705e-01
+   5.63615142e-01]"
+444,Dillon Francis,DILLONFRANCIS,0.709915,200,"[u'Dillon Francis', u'Martin Solveig', u'Maya Jane Coles', u'Big Daddy Weave', u'Ariana Grande']","[ -2.22044605e-16   6.40710385e-01   6.61777161e-01   6.79683338e-01
+   6.82910602e-01]"
+445,Nightmares on Wax,nightmaresonwax,0.709892,200,"[u'Nightmares on Wax', u'Maya Jane Coles', u'Big Daddy Weave', u'Booka Shade', u'Mumford and Sons']",[ 0.          0.79129741  0.80233209  0.80463596  0.80603327]
+446,tobyMac,therealtobymac,0.709854,200,"[u'tobyMac', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.65220044  0.66117701  0.68096986  0.69034   ]
+447,Miranda Lambert,mirandalambert,0.709311,200,"[u'Miranda Lambert', u'Blake Shelton', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   4.52181597e-01   5.13966522e-01   5.28487125e-01
+   5.42985239e-01]"
+448,Beck,beck,0.70856,160,"[u'Beck', u'Massive Attack', u'The Cranberries', u'Maya Jane Coles', u'Selena Gomez']",[ 0.          0.75198109  0.75256022  0.75655272  0.7570501 ]
+449,DON BROCO,DONBROCO,0.708464,200,"[u'DON BROCO', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   6.94956911e-01   7.04579512e-01   7.05292812e-01
+   7.21872629e-01]"
+450,Steve Angello,SteveAngello,0.708151,200,"[u'Steve Angello', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.64942304  0.67026864  0.6832168   0.69135379]
+451,Munhoz & Mariano,munhoz_mariano,0.708044,200,"[u'Munhoz & Mariano', u'Pitty', u'Luan Santana', u'Grupo Bom Gosto', u'Ivete Sangalo']",[ 0.          0.54524231  0.59374782  0.59785536  0.61915042]
+452,Robbie Williams,robbiewilliams,0.707806,200,"[u'Robbie Williams', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']",[ 0.          0.39053302  0.39785512  0.45170287  0.45567938]
+453,Cults,CultsCultsCults,0.707792,111,"[u'Cults', u'Boy & Bear', u'The Cranberries', u'Maya Jane Coles', u'Big Daddy Weave']","[ -2.22044605e-16   7.57365990e-01   7.60189603e-01   7.61437550e-01
+   7.63572718e-01]"
+454,Aventura,Aventura,0.707723,197,"[u'Aventura', u'Romeo Santos', u'No te va Gustar', u'Noel Torres', u'Reik']","[ -2.22044605e-16   2.91955056e-01   6.89638946e-01   7.06858984e-01
+   7.18030075e-01]"
+455,Natalie Grant,NatalieGrant,0.707707,200,"[u'Natalie Grant', u'Big Daddy Weave', u'Maya Jane Coles', u'Ariana Grande', u'Boy & Bear']","[ -2.22044605e-16   6.04866544e-01   6.17973050e-01   6.29993078e-01
+   6.37831033e-01]"
+456,"Harry Connick, Jr.",HarryConnickJR,0.707128,200,"[u'Harry Connick, Jr.', u'Big Daddy Weave', u'Maya Jane Coles', u'Katie Melua', u'Boy & Bear']","[ -2.22044605e-16   5.38528303e-01   5.44947346e-01   5.61229894e-01
+   5.62490933e-01]"
+457,Gippy Grewal,igippygrewal,0.706811,197,"[u'Gippy Grewal', u'Nicki Minaj', u'P!nk', u'Moby', u'Ariana Grande']",[ 0.          0.91475226  0.91520507  0.91926807  0.91957168]
+458,Leonel García,LeonelGOficial,0.706527,200,"[u'Leonel Garc\xeda', u'Alejandro Sanz', u'Marco Antonio Sol\xeds', u'Noel Torres', u'Dani Mart\xedn']","[ -2.22044605e-16   4.53751398e-01   4.77233468e-01   4.96892734e-01
+   5.09132014e-01]"
+459,Seal,Seal,0.706327,200,"[u'Seal', u'Anna Kendrick', u'Passion Pit', u'Ariana Grande', u'Big Daddy Weave']","[ -2.22044605e-16   5.43667727e-01   5.56733411e-01   5.98276841e-01
+   6.13641271e-01]"
+460,Phil Wickham,philwickham,0.706243,200,"[u'Phil Wickham', u'Big Daddy Weave', u'Maya Jane Coles', u'Matt Redman', u'Boy & Bear']",[ 0.          0.65701264  0.66285694  0.67569227  0.67814057]
+461,Girls,GIRLSsf,0.706144,199,"[u'Girls', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']","[ -2.22044605e-16   6.45454268e-01   6.51255283e-01   6.56693964e-01
+   6.58651809e-01]"
+462,James Morrison,JamesMorrisonOK,0.70597,200,"[u'James Morrison', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   6.90014918e-01   6.91975237e-01   7.01644574e-01
+   7.08427359e-01]"
+463,Labrinth,Labrinthda1st,0.704779,200,"[u'Labrinth', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Katie Melua']",[ 0.          0.59968441  0.60452543  0.61118489  0.62837088]
+464,Deitrick Haddon,DeitrickHaddon,0.704658,200,"[u'Deitrick Haddon', u'Ariana Grande', u'Big Daddy Weave', u'Anna Kendrick', u'P!nk']",[ 0.          0.84999203  0.85015477  0.85521303  0.85718082]
+465,Cedric Gervais,CedricGervais,0.704509,200,"[u'Cedric Gervais', u'Lana Del Rey', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear']","[ -2.22044605e-16   6.91166259e-01   7.07239602e-01   7.35974955e-01
+   7.43745020e-01]"
+466,Miami Horror,Miami_Horror,0.704454,200,"[u'Miami Horror', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Booka Shade']",[ 0.          0.49258418  0.50423512  0.50650294  0.52237061]
+467,Metronomy,metronomy,0.704223,200,"[u'Metronomy', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']",[ 0.          0.50289063  0.52142586  0.52379222  0.54591819]
+468,Amitabh Bachchan,SrBachchan,0.704088,200,"[u'Amitabh Bachchan', u'Big Daddy Weave', u'Anna Kendrick', u'Ariana Grande', u'Katie Melua']",[ 0.          0.67964714  0.6854309   0.68957765  0.68994759]
+469,Sidewalk Prophets,swprophets,0.703995,200,"[u'Sidewalk Prophets', u'Big Daddy Weave', u'Boy & Bear', u'Matthew West', u'Maya Jane Coles']",[ 0.          0.60541621  0.62347179  0.62971513  0.64342067]
+470,Sia,Sia,0.703918,199,"[u'Sia', u'Anna Kendrick', u'Ariana Grande', u'Maya Jane Coles', u'Big Daddy Weave']","[ -2.22044605e-16   5.68117146e-01   5.81350679e-01   5.84298039e-01
+   5.87181316e-01]"
+471,Eric Paslay,ericpaslay,0.703893,198,"[u'Eric Paslay', u'Eli Young Band', u'Eric Church', u'Big Daddy Weave', u'Maya Jane Coles']","[ -2.22044605e-16   6.22188639e-01   6.52534196e-01   6.72291414e-01
+   6.82403681e-01]"
+472,Lyfe Jennings,Lyfeonline419,0.703725,200,"[u'Lyfe Jennings', u'Ariana Grande', u'Katie Melua', u'Big Daddy Weave', u'Parov Stelar']",[ 0.          0.8515258   0.852957    0.8565726   0.85699159]
+473,Faith Hill,FaithHill,0.703035,200,"[u'Faith Hill', u'Tim McGraw', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear']","[ -2.22044605e-16   5.42434404e-01   6.04960771e-01   6.21574950e-01
+   6.26610021e-01]"
+474,Weezer,Weezer,0.702989,198,"[u'Weezer', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']",[ 0.          0.77221823  0.77643766  0.77823367  0.77846342]
+475,Halestorm,Halestorm,0.702643,200,"[u'Halestorm', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']",[ 0.          0.50216632  0.52126896  0.5287453   0.54451498]
+476,Dixie Chicks,dixiechicks,0.702456,199,"[u'Dixie Chicks', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Mumford and Sons']","[ -2.22044605e-16   6.12112050e-01   6.18354379e-01   6.18751649e-01
+   6.42542039e-01]"
+477,Active Child,ActiveChild,0.702401,200,"[u'Active Child', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.60527487  0.61194265  0.61824585  0.64552548]
+478,2Cellos,2CELLOS,0.702364,200,"[u'2Cellos', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']",[ 0.          0.61869904  0.62405396  0.65758808  0.66234246]
+479,Milk & Sugar,Milk_and_Sugar,0.70232,200,"[u'Milk & Sugar', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Booka Shade']",[ 0.          0.59561585  0.59792826  0.61549006  0.61791987]
+480,Carlos Rivera,_CarlosRivera,0.702069,200,"[u'Carlos Rivera', u'Alejandro Sanz', u'Reik', u'No te va Gustar', u'Dani Mart\xedn']",[ 0.          0.64432284  0.64610706  0.65086317  0.65792009]
+481,Sean Kingston,SeanKingston,0.701741,199,"[u'Sean Kingston', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.61664385  0.61836433  0.6356426   0.64097814]
+482,Natiruts,natirutsoficial,0.701644,200,"[u'Natiruts', u'CPM 22', u'Grupo Bom Gosto', u'Pitty', u'Luan Santana']","[ -2.22044605e-16   7.34989921e-01   7.44352491e-01   7.47093347e-01
+   7.49415460e-01]"
+483,The Fray,TheFray,0.701537,200,"[u'The Fray', u'Big Daddy Weave', u'Boy & Bear', u'OneRepublic', u'Maya Jane Coles']","[ -2.22044605e-16   8.39811576e-01   8.46007796e-01   8.50470534e-01
+   8.51628294e-01]"
+484,Gogol Bordello,GogolBordello,0.701395,200,"[u'Gogol Bordello', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Mumford and Sons']","[ -2.22044605e-16   6.31770278e-01   6.34549071e-01   6.39190477e-01
+   6.42782235e-01]"
+485,Korpiklaani,_korpiklaani,0.701186,200,"[u'Korpiklaani', u'Selena Gomez', u'Massive Attack', u'Lou Reed', u'Trina']","[ -2.22044605e-16   3.98793120e-01   4.02336834e-01   4.54996967e-01
+   4.56173743e-01]"
+486,Yo Gotti,YoGottiKOM,0.701152,200,"[u'Yo Gotti', u'Selena Gomez', u'Massive Attack', u'Meek Mill', u'Trina']","[ -2.22044605e-16   7.08782436e-01   7.16764232e-01   7.34870847e-01
+   7.39655875e-01]"
+487,Bonobo,sibonobo,0.701082,200,"[u'Bonobo', u'Maya Jane Coles', u'Boy & Bear', u'Big Daddy Weave', u'Sub Focus']",[ 0.          0.55768562  0.56070857  0.56151619  0.59593425]
+488,Fiuk,Fiuk,0.700622,200,"[u'Fiuk', u'Pitty', u'Jo\xe3o Neto e Frederico', u'Ivete Sangalo', u'Luan Santana']","[ -2.22044605e-16   7.26679602e-01   7.65703386e-01   7.72449998e-01
+   7.78234026e-01]"
+489,Sleigh Bells,sleighbells,0.699855,23,"[u'Sleigh Bells', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'Parov Stelar']","[ -2.22044605e-16   6.39063810e-01   6.46469568e-01   6.52398504e-01
+   6.69229957e-01]"
+490,Marco Antonio Solís,MarcoASolis,0.699546,200,"[u'Marco Antonio Sol\xeds', u'David Bisbal', u'Alejandro Sanz', u'Reik', u'No te va Gustar']","[ -2.22044605e-16   3.78954855e-01   4.14849363e-01   4.61976246e-01
+   4.76701749e-01]"
+491,Busta Rhymes,BustaRhymes,0.699512,200,"[u'Busta Rhymes', u'Jaheim', u'Sara Bareilles', u'Iggy Azalea', u'Lorde']","[ -2.22044605e-16   8.18175121e-01   8.21037465e-01   8.21552032e-01
+   8.24088661e-01]"
+492,Poliça,thisispolica,0.699493,199,"[u'Poli\xe7a', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.73731623  0.74447512  0.74517179  0.75580962]
+493,Noel Torres,jnoeltorres,0.699388,200,"[u'Noel Torres', u'No te va Gustar', u'Alejandro Sanz', u'Reik', u'Mal\xfa']","[ -2.22044605e-16   4.06992196e-01   4.10426067e-01   4.17031232e-01
+   4.18161165e-01]"
+494,Medina,MedinaMusic,0.698972,200,"[u'Medina', u'Selena Gomez', u'Massive Attack', u'Lykke Li', u'Trina']","[ -2.22044605e-16   6.96526776e-01   7.07269033e-01   7.12546633e-01
+   7.25046365e-01]"
+495,Madcon,madc0n,0.698966,198,"[u'Madcon', u'Big Daddy Weave', u'Selena Gomez', u'Maya Jane Coles', u'Boy & Bear']",[ 0.          0.43165685  0.44231897  0.45312155  0.45704271]
+496,Hilltop Hoods,hilltophoods,0.698935,200,"[u'Hilltop Hoods', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Katie Melua']",[ 0.          0.62408973  0.63170877  0.63977743  0.65965034]
+497,Sara Evans,saraevansmusic,0.698735,199,"[u'Sara Evans', u'Selena Gomez', u'Massive Attack', u'Maya Jane Coles', u'Big Daddy Weave']",[ 0.          0.44590206  0.4704718   0.47901626  0.48642783]
+498,Grupo Bom Gosto,grupo_bom_gosto,0.698198,200,"[u'Grupo Bom Gosto', u'Pitty', u'Munhoz & Mariano', u'Luan Santana', u'Ivete Sangalo']",[ 0.          0.56361514  0.59785536  0.60811139  0.62524389]
+499,Vicente Fernández,_VicenteFdez,0.698136,134,"[u'Vicente Fern\xe1ndez', u'Alejandro Sanz', u'No te va Gustar', u'Reik', u'Noel Torres']","[ -2.22044605e-16   4.44054208e-01   4.55802480e-01   4.77035130e-01
+   4.82005753e-01]"
+500,Mac DeMarco,Msldemarco,0.698017,173,"[u'Mac DeMarco', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Parov Stelar']",[ 0.          0.71674336  0.72148278  0.72917546  0.74140907]
+501,Lucy Rose,lucyrosemusic,0.697965,200,"[u'Lucy Rose', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Katie Melua']",[ 0.          0.62677776  0.62868747  0.63307563  0.64714453]
+502,Earnest Pugh,earnestpugh,0.697662,200,"[u'Earnest Pugh', u'Big Daddy Weave', u'Matt Redman', u'Ariana Grande', u'Maya Jane Coles']",[ 0.          0.82874276  0.83138484  0.83565304  0.8383696 ]
+503,Daughtry,CHRIS_Daughtry,0.697531,200,"[u'Daughtry', u'Big Daddy Weave', u'Maya Jane Coles', u'Boy & Bear', u'Selena Gomez']",[ 0.          0.59070581  0.59153178  0.61204281  0.62543142]
+504,Modest Mouse,modestmouseband,0.697463,49,"[u'Modest Mouse', u'Boy & Bear', u'Big Daddy Weave', u'Maya Jane Coles', u'The Cranberries']","[ -2.22044605e-16   6.41908247e-01   6.51548277e-01   6.59001372e-01
+   6.67425083e-01]"
+505,Justice Crew,JusticeCrew,0.697354,200,"[u'Justice Crew', u'Boy & Bear', u'Big Daddy Weave', u'Ariana Grande', u'Maya Jane Coles']",[ 0.          0.76557797  0.76561776  0.76957447  0.77467343]
+506,Foxes,iamfoxes,0.697262,200,"[u'Foxes', u'Maya Jane Coles', u'Big Daddy Weave', u'Sub Focus', u'Boy & Bear']",[ 0.          0.65714701  0.66812327  0.67178017  0.67369827]
+507,"Tyler, The Creator",fucktyler,0.69717,200,"[u'Tyler, The Creator', u'Big Daddy Weave', u'Selena Gomez', u'Maya Jane Coles', u'Massive Attack']","[ -2.22044605e-16   4.78553249e-01   4.81043327e-01   4.84976127e-01
+   5.04740787e-01]"
+508,Feed Me,feedme,0.697078,199,"[u'Feed Me', u'Maya Jane Coles', u'Big Daddy Weave', u'Boy & Bear', u'Katie Melua']","[ -2.22044605e-16   5.68900531e-01   5.87667734e-01   6.02168240e-01
+   6.17264463e-01]"
+509,Dima Bilan,BilanOfficial,0.69701,200,"[u'Dima Bilan', u'\u041d\u044e\u0448\u0430', u'Selena Gomez', u'Massive Attack', u'Trina']",[ 0.          0.51974879  0.69266876  0.6953079   0.71464701]
+510,Mc Fitti,mc_fitti,0.696848,200,"[u'Mc Fitti', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lou Reed']","[ -2.22044605e-16   7.23205704e-01   7.26031531e-01   7.42509169e-01
+   7.47623380e-01]"
+511,Marina and The Diamonds,MarinasDiamonds,0.696756,199,"[u'Marina and The Diamonds', u'Selena Gomez', u'Big Daddy Weave', u'Massive Attack', u'Maya Jane Coles']",[ 0.          0.51119913  0.53156524  0.53400716  0.53581406]
+512,Jethro Tull,jethrotull,0.696488,200,"[u'Jethro Tull', u'Massive Attack', u'Mumford and Sons', u'Big Daddy Weave', u'Selena Gomez']",[ 0.          0.62748667  0.63309018  0.63683954  0.64027122]
+513,Hawk Nelson,hawknelson,0.696449,200,"[u'Hawk Nelson', u'Building 429', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles']",[ 0.          0.51819503  0.66485486  0.67578415  0.69328391]
+514,Anoushka Shankar,ShankarAnoushka,0.696172,200,"[u'Anoushka Shankar', u'Maya Jane Coles', u'Selena Gomez', u'Big Daddy Weave', u'Massive Attack']",[ 0.          0.48815397  0.49200495  0.49369628  0.49370886]
+515,Bloc Party,BlocParty,0.696066,200,"[u'Bloc Party', u'Selena Gomez', u'Massive Attack', u'Big Daddy Weave', u'Maya Jane Coles']",[ 0.          0.53581487  0.53583662  0.5555339   0.56304026]
+516,for King & Country,4kingandcountry,0.69602,200,"[u'for King & Country', u'Big Daddy Weave', u'Boy & Bear', u'Maya Jane Coles', u'Parov Stelar']",[ 0.          0.50122829  0.52674731  0.53998197  0.56018957]
+517,Ludacris,Ludacris,0.695283,200,"[u'Ludacris', u'Selena Gomez', u'Massive Attack', u'Trina', u'Lykke Li']","[ -2.22044605e-16   5.00836249e-01   5.19352125e-01   5.44189662e-01
+   5.55976149e-01]"

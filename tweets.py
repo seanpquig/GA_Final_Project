@@ -2,7 +2,19 @@
 import json
 import csv
 import pandas as pd
-import tweepy
+import twitter
+
+CONSUMER_KEY = '6uhR4asteKqbRZrF58Gg'
+CONSUMER_SECRET = 'euNYEIYJqkrB2jxRTy3w83VvnNqxEQqfB8DTOvveUc'
+OAUTH_TOKEN = '1970118768-tUZUlPpMNeMWycB23gkAphGDLzRmjMrI3bfqDdY'
+OAUTH_TOKEN_SECRET = 'fyEQQeqp14oRX9cdpYoUNykZfLEEM6Kkozh7QkTiGxHPc'
+
+auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, 
+                            CONSUMER_KEY, CONSUMER_SECRET)
+
+api = twitter.Twitter(auth=auth)
+
+
 
 file_num = 2
 
