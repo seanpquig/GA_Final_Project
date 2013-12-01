@@ -36,7 +36,7 @@ matrix = vect.transform(df.tweet_str)
 
 
 ### BUILD RECOMMENDATION ENGINE
-nbrs = NearestNeighbors(n_neighbors=5)
+nbrs = NearestNeighbors(n_neighbors=20)
 nbrs.fit(matrix)
 
 
@@ -56,7 +56,7 @@ nbrs.fit(matrix)
 
 # df['artist'] = df['artist'].apply(smart_str)
 # df[['artist', 'screen_name', 'hotttnesss', 
-#     'num_tweets', 'recommendations', 'scores']].to_csv('recs_euclidean_tfidf_stop.csv')
+#     'num_tweets', 'recommendations', 'scores']].to_csv('recs.csv')
 
 
 
